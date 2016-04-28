@@ -24,6 +24,8 @@ You can edit .md files right from Github if you're logged in. If you want to edi
 
 * [http://playground.tensorflow.org/](Tinker With a Neural Network in Your Browser) (tensorflow.org) ([HN](https://news.ycombinator.com/item?id=11483934))
 
-## Other groups
+## Other pages
 
-see [Other Groups](Other Groups.md)
+* [Other Groups](Other Groups.md)
+* [More links](More links.md)
+
