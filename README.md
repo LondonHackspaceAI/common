@@ -23,3 +23,7 @@ You can edit .md files right from Github if you're logged in. If you want to edi
 ### Various
 
 * [http://playground.tensorflow.org/](Tinker With a Neural Network in Your Browser) (tensorflow.org) ([HN](https://news.ycombinator.com/item?id=11483934))
+
+## Other groups
+
+see [Other Groups](Other Groups.md)
