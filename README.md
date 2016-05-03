@@ -26,6 +26,7 @@ You can edit .md files right from Github if you're logged in, and member of the 
 
 ## Other pages
 
+* [Project Ideas](Project Ideas.md)
 * [Other Groups](Other Groups.md)
 * [More links](More links.md)
 
