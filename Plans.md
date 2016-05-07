@@ -59,7 +59,22 @@ learning Julia on.
 
 ## Suggestions
 
-* watch course [Stanford University CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html)
+* watch course [Stanford University CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html) that Bob is working through
+
+  Youtube has the 2015 videos
+  [here](https://www.youtube.com/channel/UCsGC3XXF1ThHwtDo18d7WVw),
+  but for this year's videos follow the "video" link at the individual
+  sessions on the page linked above.
+
+  Bob so far has watched the first ~8 sessions from 2015, and one
+  (Tensorflow) from 2016.
+
+  Interesting links from him (about the hairyness of advanced
+  algorithms):
+
+  * [Minimal character-level language model with a Vanilla Recurrent Neural Network, in Python_numpy](https://gist.github.com/karpathy/d4dee566867f8291f086)
+
+  * [char-rnn/train.lua](https://github.com/karpathy/char-rnn/blob/master/train.lua) (requires matrix weight sharing but retention of old X state (what exactly?))
 
 * read books, find articles? Read through Wikipedia articles (see [More links](More links.md))? Then present it?
 
