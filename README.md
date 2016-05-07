@@ -27,7 +27,7 @@ You can edit .md files right from Github if you're logged in, and member of the 
 ## Other pages
 
 * [Plans](Plans.md)
-* [Project Ideas](Project Ideas.md)
-* [Other Groups](Other Groups.md)
-* [More links](More links.md)
+* [Project Ideas](Project_Ideas.md)
+* [Other Groups](Other_Groups.md)
+* [More links](More_links.md)
 * [OpenAI](OpenAI.md)
