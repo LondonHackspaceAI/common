@@ -13,3 +13,11 @@ better precision)
 
    * Teach a neural network to draw logic conclusions. Similar to this?: [Neural Programmer-Interpreters](http://www-personal.umich.edu/~reedscot/iclr_project.html) / [arXiv](http://arxiv.org/abs/1511.06279) / [HN](https://news.ycombinator.com/item?id=11617971)
 
+## Sam
+
+   * see whether AI can help find 'patterns' in genome data, or music
+
+## Tony
+
+   * evaluate data from commoncrawl.org
+
