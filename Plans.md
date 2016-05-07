@@ -44,8 +44,7 @@ learning Julia on.
 
 * install [Torch](http://torch.ch/) on the Debian on the Borg? (Bob
   has been using it.) Figure out why it doesn't use the available
-  cores much. Install Tensorflow, Leaf (see [More links](More
-  links.md)).
+  cores much. Install Tensorflow, Leaf (see [More links](More%20links.md)).
 
 * Tony reads [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp](http://norvig.com/paip.html)
 
@@ -76,5 +75,5 @@ learning Julia on.
 
   * [char-rnn/train.lua](https://github.com/karpathy/char-rnn/blob/master/train.lua) (requires matrix weight sharing but retention of old X state (what exactly?))
 
-* read books, find articles? Read through Wikipedia articles (see [More links](More links.md))? Then present it?
+* read books, find articles? Read through Wikipedia articles (see [More links](More%20links.md))? Then present it?
 
