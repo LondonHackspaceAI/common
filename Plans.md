@@ -38,9 +38,15 @@ learning Julia on.
   always give access to recent stuff, and Jasper prefers it from an
   admin point of view)
 
+* May 8: decision to have at most one meeting per week. Look out for possibilities of working individually or in subgroups and then present the results, to progress a bit faster.
+
 ## Next steps
 
-* install Debian on the Borg
+* install Debian and Julia on the Borg (Christian)
+
+* Meeting on Fri May 13 7pm. Bob will present do a short older
+  presentation on Julia. We'll experiment with Julia on the Borg over
+  ssh from our laptops.
 
 * install [Torch](http://torch.ch/) on the Debian on the Borg? (Bob
   has been using it.) Figure out why it doesn't use the available
