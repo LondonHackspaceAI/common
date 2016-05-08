@@ -74,14 +74,14 @@ learning Julia on.
   Bob so far has watched the first ~8 sessions from 2015, and one
   (Tensorflow) from 2016.
 
-  Interesting links from him (about the hairyness of advanced
-  algorithms):
+* Interesting links from Bob about the hairyness of advanced
+  algorithms:
 
   * [Minimal character-level language model with a Vanilla Recurrent Neural Network, in Python_numpy](https://gist.github.com/karpathy/d4dee566867f8291f086)
 
   * [char-rnn/train.lua](https://github.com/karpathy/char-rnn/blob/master/train.lua) (requires matrix weight sharing but retention of old X state (what exactly?))
 
-  Good intro to neural nets:
+* (Bob) Good intro to neural nets:
     http://neuralnetworksanddeeplearning.com
 
 * read books, find articles? Read through Wikipedia articles (see [More links](More_links.md))? Then present it?
