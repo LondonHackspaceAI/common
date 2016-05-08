@@ -60,7 +60,7 @@ learning Julia on.
 * decide whether and when to jump forward to neural network
   algorithms? 
 
-* play a bit with Tensorflow (and/or  and/or Torch) anyway already?
+* play a bit with Tensorflow (and/or [Leaf](https://github.com/autumnai/leaf) and/or Torch) anyway already?
 
 ## Suggestions
 
