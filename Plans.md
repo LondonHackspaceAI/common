@@ -44,8 +44,8 @@ learning Julia on.
 
 * install Debian and Julia on the Borg (Christian)
 
-* Meeting on Fri May 13 7pm. Bob will present do a short older
-  presentation on Julia. We'll experiment with Julia on the Borg over
+* Meeting on Fri May 13 7pm. Bob will do a presentation of a short
+  older talk on Julia. We'll experiment with Julia on the Borg over
   ssh from our laptops.
 
 * install [Torch](http://torch.ch/) on the Debian on the Borg? (Bob
