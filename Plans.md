@@ -81,5 +81,8 @@ learning Julia on.
 
   * [char-rnn/train.lua](https://github.com/karpathy/char-rnn/blob/master/train.lua) (requires matrix weight sharing but retention of old X state (what exactly?))
 
+  Good intro to neural nets:
+    http://neuralnetworksanddeeplearning.com
+
 * read books, find articles? Read through Wikipedia articles (see [More links](More_links.md))? Then present it?
 
