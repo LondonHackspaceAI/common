@@ -10,6 +10,10 @@
 
 [High-level GPU programming in Julia](http://arxiv.org/abs/1604.03410)
 
+## Tensorflow
+
+[Number plate recognition with Tensorflow - Matt's ramblings](https://matthewearl.github.io/2016/05/06/cnn-anpr/) ([HN](https://news.ycombinator.com/item?id=11655359))
+
 ## Various
 
 [Massive Throughput Database Queries with LLVM on GPUs](http://www.mapd.com/blog/2016/04/27/massive-throughput-database-queries-with-llvm-on-gpus/) ([HN](https://news.ycombinator.com/item?id=11654659))
