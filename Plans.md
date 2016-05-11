@@ -6,7 +6,7 @@
 
 - implement machine learning algorithms in it so as to learn how modern AI works
 
-- see how to use AI on selected problems: see [Project Ideas](Project_Ideas.md)
+- see how to use AI on selected problems: see [Project Ideas](ProjectIdeas.md)
 
 Julia (while a general purpose programming language) is really "made"
 for scientific computing and should thus be a very good match for us
@@ -50,7 +50,7 @@ learning Julia on.
 
 * install [Torch](http://torch.ch/) on the Debian on the Borg? (Bob
   has been using it.) Figure out why it doesn't use the available
-  cores much. Install Tensorflow, Leaf (see [More links](More_links.md)).
+  cores much. Install Tensorflow, Leaf (see [More links](MoreLinks.md)).
 
 * Tony reads [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp](http://norvig.com/paip.html)
 
@@ -84,5 +84,5 @@ learning Julia on.
 * (Bob) Good intro to neural nets:
     http://neuralnetworksanddeeplearning.com
 
-* read books, find articles? Read through Wikipedia articles (see [More links](More_links.md))? Then present it?
+* read books, find articles? Read through Wikipedia articles (see [More links](MoreLinks.md))? Then present it?
 
