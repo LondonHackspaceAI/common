@@ -2,7 +2,7 @@
 
 ## Documentation
 
-* [The Julia Language](http://julialang.org/) ([Wikipedia](https://en.wikipedia.org/wiki/Julia_%28programming_language%29))
+* [Wikipedia](https://en.wikipedia.org/wiki/Julia_%28programming_language%29)
 * [julialang.org](http://julialang.org/)
 
 ## Using Julia from the browser
@@ -19,7 +19,7 @@ For other operating systems, check [julialang.org/downloads/](http://julialang.o
 
 You need a login on the Borg, and get permission(?) to turn on and use the Borg (it is a bit involved to turn on and uses a lot of power). These are provided at our events.
 
-Then you need a way to synchronize files, so that you can run the text editor on your computer while saving the file to the Borg. On Linux, use [SSHFS](https://en.wikipedia.org/wiki/SSHFS) (`apt install sshfs`), on Windows perhaps [WinSCP](https://en.wikipedia.org/wiki/WinSCP) offers the best solution (I'm not using Windows so don't know).
+Then you need a way to synchronize files, so that you can run the text editor on your computer while saving the file to the Borg. On Linux, use [SSHFS](https://en.wikipedia.org/wiki/SSHFS) (`apt install sshfs`), on Windows perhaps [WinSCP](https://en.wikipedia.org/wiki/WinSCP) offers the best solution (I'm not using Windows so don't know). To run your program, ssh into Borg and enter `julia yourfile.jl`.
 
 You could also run `emacs` or `vim` from your ssh login on the Borg, if you're comfortable with that.
 
