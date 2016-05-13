@@ -16,18 +16,12 @@ You can edit .md files right from Github if you're logged in, and member of the 
 
 (The Stanford AI group also has [various other courses](http://ai.stanford.edu/courses/), by the way.)
 
-### Julia
-
-* [The Julia Language](http://julialang.org/) ([Wikipedia](https://en.wikipedia.org/wiki/Julia_%28programming_language%29))
-
-### Various
-
-* [Tinker With a Neural Network in Your Browser](http://playground.tensorflow.org/) (tensorflow.org) ([HN](https://news.ycombinator.com/item?id=11483934))
-
-## Other pages
+## Pages
 
 * [Plans](Plans.md)
+* [Julia](Julia.md)
 * [Project Ideas](ProjectIdeas.md)
+* [Neural Networks](NeuralNetworks.md)
 * [Other Groups](OtherGroups.md)
 * [More links](MoreLinks.md)
 * [OpenAI](OpenAI.md)
