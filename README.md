@@ -6,19 +6,10 @@ We're a group of hackers from the [London Hackspace](https://london.hackspace.or
 
 You can edit .md files right from Github if you're logged in, and member of the LondonHackspaceAI organisation (ask Christian or another member of this group to become member). If you want to edit the README.md, and you got here by viewing the file listing in this repository, first click on the README.md file in the file listing above this text--only then you get the pen (stylus) symbol on the right hand side that allows you to edit it.
 
-## Materials
-
-### Stanford "Intro to AI" online course
-
-[Original](http://www.ai-class.com/), redirects to [Udacity](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271).
-[Youtube](https://www.youtube.com/watch?v=BnIJ7Ba5Sr4&index=1&list=PLE0157B77891C4FE8).
-[Course notes by some student](https://github.com/lorenzo-stoakes/stanford-ai).
-
-(The Stanford AI group also has [various other courses](http://ai.stanford.edu/courses/), by the way.)
-
 ## Pages
 
 * [Plans](Plans.md)
+* [Courses](Courses.md)
 * [Julia](Julia.md)
 * [Project Ideas](ProjectIdeas.md)
 * [Neural Networks](NeuralNetworks.md)
