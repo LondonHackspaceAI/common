@@ -23,3 +23,6 @@ better precision)
 
    * evaluate data from commoncrawl.org
 
+## Nick
+
+   * Image recognition of foxes versus cats versus humans in video streams
