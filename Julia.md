@@ -7,7 +7,9 @@
 
 ## Using Julia from the browser
 
-You can run Julia in the browser using [Project Jupyter](http://jupyter.org/) ("*Open source, interactive data science and scientific computing across over 40 programming languages.*").
+julialang.org recommends [JuliaBox](https://www.juliabox.org/).
+
+You can alo run Julia in the browser using [Project Jupyter](http://jupyter.org/) ("*Open source, interactive data science and scientific computing across over 40 programming languages.*"). Peter has more knowledge on this.
 
 ## Using Julia on your computer
 
