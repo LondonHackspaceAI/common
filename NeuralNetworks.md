@@ -12,3 +12,8 @@
 
 [Leaf](https://github.com/autumnai/leaf), machine learning framework in Rust ([HN](https://news.ycombinator.com/item?id=11562805), [book](http://autumnai.com/leaf/book/leaf.html)) ("*a Machine Intelligence Framework engineered by hackers, not scientists*")
 
+## Various links
+
+[Neural Network Evolution Playground with Backprop NEAT](http://blog.otoro.net/2016/05/07/backprop-neat/) ([HN](https://news.ycombinator.com/item?id=11696005))
+
+[Setting up a Deep Learning Machine from Scratch](https://github.com/saiprashanths/dl-setup) ([HN](https://news.ycombinator.com/item?id=11697571))
