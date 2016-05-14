@@ -1,4 +1,16 @@
-# Online courses
+# Teaching materials
+
+## Wikipedia
+
+[Biological neural network](https://en.wikipedia.org/wiki/Biological_neural_network)
+
+[Artificial neural network](https://en.wikipedia.org/wiki/Artificial_neural_network)
+
+## Online books
+
+[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
+
+## Online courses
 
 * [Original](http://www.ai-class.com/), redirects to [Udacity](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271).
 
