@@ -17,3 +17,6 @@
 [Neural Network Evolution Playground with Backprop NEAT](http://blog.otoro.net/2016/05/07/backprop-neat/) ([HN](https://news.ycombinator.com/item?id=11696005))
 
 [Setting up a Deep Learning Machine from Scratch](https://github.com/saiprashanths/dl-setup) ([HN](https://news.ycombinator.com/item?id=11697571))
+
+[SyntaxNet: Neural Models of Syntax](https://github.com/tensorflow/models/tree/master/syntaxnet) ([HN](https://news.ycombinator.com/item?id=11707714))
+
