@@ -6,6 +6,9 @@
 
 [Vindinium is an Artificial Intelligence programming challenge](http://vindinium.org/) ([HN](https://news.ycombinator.com/item?id=11720149))
 
+[OpenAI Gym](https://openai.com/blog/openai-gym-beta/), a toolkit for developing and comparing reinforcement learning (RL) algorithms. ([HN](https://news.ycombinator.com/item?id=11722353))
+
+
 ## Hardware
 
 [NVIDIA GeForce GTX 1080 .. Performance Faster Than Titan X and 980 SLI](http://wccftech.com/nvidia-geforce-gtx-1080-launch/), [HN](https://news.ycombinator.com/item?id=11648110)
