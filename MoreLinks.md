@@ -13,3 +13,5 @@
 
 [NVIDIA GeForce GTX 1080 .. Performance Faster Than Titan X and 980 SLI](http://wccftech.com/nvidia-geforce-gtx-1080-launch/), [HN](https://news.ycombinator.com/item?id=11648110)
 
+[Google supercharges machine learning tasks with TPU custom chip](https://cloudplatform.googleblog.com/2016/05/Google-supercharges-machine-learning-tasks-with-custom-chip.html) ([HN](https://news.ycombinator.com/item?id=11724763))
+
