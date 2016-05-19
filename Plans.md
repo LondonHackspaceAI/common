@@ -40,13 +40,41 @@ learning Julia on.
 
 * May 8: decision to have at most one meeting per week. Look out for possibilities of working individually or in subgroups and then present the results, to progress a bit faster.
 
+* Meeting to start learning Julia on Fri May 13 (7pm (or really 8pm,
+  Christian and the Borg were late and the TV showed remarkable
+  resistance, too)). Bob did a short presentation, then we did some
+  [hello
+  world](https://github.com/LondonHackspaceAI/julia-experiments/blob/master/meeting-1/foo.jl)
+  (check the history using `gitk`) level programming. Due to running
+  out of time we haven't managed to work in subgroups, and haven't
+  managed to see parallelism yet. Discussed further plans. Thinking
+  that it is on individuals and subgroups to work out things between
+  meetings; list of things to work on for such individuals or
+  subgroups:
+
+    - using matrices in Julia (using small interesting example(s)?)
+      (perhaps Nick)
+
+    - path search in Julia (Sam)
+
+    - what is coming up in the course? Is there an alternatives we
+      should take? (Christian)
+
+  Mentioned but not written down during meeting:
+
+    - reading up about neural networks (and AI in general?) (Paul)
+
+      (Note from Christian: check "Wikipedia" and "Online books"
+      sections in [Teaching](Teaching.md).)
+
+  Not listed during meeting:
+
+    - parallel programming in Julia (Christian)
+
+
 ## Next steps
 
 * install Debian and Julia on the Borg (Christian)
-
-* Meeting on Fri May 13 7pm. Bob will do a presentation of a short
-  older talk on Julia. We'll experiment with Julia on the Borg over
-  ssh from our laptops.
 
 * install [Torch](http://torch.ch/) on the Debian on the Borg? (Bob
   has been using it.) Figure out why it doesn't use the available
