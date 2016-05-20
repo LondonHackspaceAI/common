@@ -57,7 +57,7 @@ learning Julia on.
 
     - path search in Julia (Sam)
 
-    - what is coming up in the course? Is there an alternatives we
+    - what is coming up in the course? Is there an alternative we
       should take? (Christian)
 
   Mentioned but not written down during meeting:
