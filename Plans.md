@@ -71,10 +71,15 @@ learning Julia on.
 
     - parallel programming in Julia (Christian)
 
+* installed Debian and Julia on the Borg (Christian), Debian is still
+  in the chroot, but it works now for (non-LDAP) user accounts
+  (switched over to sysv init)
+
 
 ## Next steps
 
-* install Debian and Julia on the Borg (Christian)
+* install LDAP user accounts in the chroot (and separate home from
+  ubuntu)?
 
 * install [Torch](http://torch.ch/) on the Debian on the Borg? (Bob
   has been using it.) Figure out why it doesn't use the available
