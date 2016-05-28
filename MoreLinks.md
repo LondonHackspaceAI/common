@@ -8,6 +8,8 @@
 
 [OpenAI Gym](https://openai.com/blog/openai-gym-beta/), a toolkit for developing and comparing reinforcement learning (RL) algorithms. ([HN](https://news.ycombinator.com/item?id=11722353))
 
+What is this?: [Adaptive Neural Compilation](http://www.robots.ox.ac.uk/~rudy/publications/2016-05-21-anc.html) ([HN](https://news.ycombinator.com/item?id=11784959))
+
 
 ## Hardware
 
