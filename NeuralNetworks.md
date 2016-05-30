@@ -20,3 +20,4 @@
 
 [SyntaxNet: Neural Models of Syntax](https://github.com/tensorflow/models/tree/master/syntaxnet) ([HN](https://news.ycombinator.com/item?id=11707714))
 
+[Brainstorm](https://github.com/IDSIA/brainstorm) ([packaging effort for Debian](http://www.danielstender.com/blog/work-for-debian-1605.html))
