@@ -32,3 +32,5 @@ Perhaps we should look into installing Juno and IJulia as well as a VNC server o
 [Compiling Julia for NVIDIA GPUs](http://blog.maleadt.net/2015/01/15/julia-cuda/) ([HN](https://news.ycombinator.com/item?id=8991622))
 
 [High-level GPU programming in Julia](http://arxiv.org/abs/1604.03410)
+
+[Talk by one of the Julia creators](https://www.youtube.com/watch?v=dK3zRXhrFZY&index=11&list=PLA66mD-6yK8xqd5XKxzwVBIqf1d3QQXpv) (youtube)
