@@ -24,3 +24,5 @@
 
 [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/) ([HN](Deep Reinforcement Learning: Pong from Pixels | Hacker News.html))
 
+[The Truth About Deep Learning](http://blog.claymcleod.io/2016/06/01/The-truth-about-Deep-Learning/) ([HN](https://news.ycombinator.com/item?id=11819525))
+
