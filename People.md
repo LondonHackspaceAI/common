@@ -1,6 +1,6 @@
 # List of important people
 
-(sorted alphabetically)
+(sorted alphabetically by last name)
 
 * [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng) ([home page](http://www.andrewng.org/))
 
@@ -23,4 +23,39 @@
   16,000 CPU cores, that learned to recognize higher-level concepts,
   such as cats, after watching only YouTube videos, and without ever
   having been told what a "cat" is.
+
+* [Peter Norvig](https://en.wikipedia.org/wiki/Peter_Norvig) ([home page](http://www.norvig.com/))
+
+  Co-author, with Stuart Russell, of [Artificial Intelligence: A
+  Modern
+  Approach](https://en.wikipedia.org/wiki/Artificial_Intelligence:_A_Modern_Approach),
+  now the leading college text in the field.
+
+  Was head of the Computational Sciences Division (now the Intelligent
+  Systems Division) at NASA Ames Research Center. Is a Director of
+  Research at Google Inc., and used to be its Director of Search
+  Quality. Was chief designer at [Harlequin
+  Inc.](https://en.wikipedia.org/wiki/Harlequin_%28software_company%29)
+  (former company working in the fields of AI and Lisp.)
+
+  Has been an Assistant Professor at the University of Southern
+  California and a Research Faculty Member at Berkeley.
+
+  (One of the authors of JScheme.)
+
+  One of the [two
+  instructors](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
+  of the "Intro to AI" course (Sebastian Thrun being the other, and
+  main, one.)
+
+* [Sebastian Thrun](https://en.wikipedia.org/wiki/Sebastian_Thrun)
+
+  Innovator, entrepreneur educator, and computer scientist from
+  Germany. He was CEO and cofounder of Udacity. Before that, he was a
+  Google VP and Fellow, and a Professor of Computer Science at
+  Stanford University.
+
+  One of the [two
+  instructors](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
+  of the "Intro to AI" course (Peter Norvig being the other one.)
 
