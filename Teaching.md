@@ -12,7 +12,7 @@
 
 ## Online courses
 
-*  "Intro to AI - Introduction to Artificial Intelligence": [www.ai-class.com](http://www.ai-class.com/), redirects to [Udacity](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271).
+*  "Intro to AI - Introduction to Artificial Intelligence": [www.ai-class.com](http://www.ai-class.com/), redirects to [Udacity](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271) (Instructors: Peter Norvig, Sebastian Thrun)
 
   * [Youtube](https://www.youtube.com/watch?v=BnIJ7Ba5Sr4&index=1&list=PLE0157B77891C4FE8).
 
