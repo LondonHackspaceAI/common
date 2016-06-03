@@ -2,13 +2,13 @@
 
 ## Wikipedia
 
-[Biological neural network](https://en.wikipedia.org/wiki/Biological_neural_network)
+* [Biological neural network](https://en.wikipedia.org/wiki/Biological_neural_network)
 
-[Artificial neural network](https://en.wikipedia.org/wiki/Artificial_neural_network)
+* [Artificial neural network](https://en.wikipedia.org/wiki/Artificial_neural_network)
 
 ## Online books
 
-[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
 
 ## Online courses
 
