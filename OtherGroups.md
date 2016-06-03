@@ -1,6 +1,10 @@
-# Other groups in the geographical and topical area
+# Other groups in the geographical and/or topical area
 
-## On Meetup.com
+## Online
+
+[Kaggle's data science competitions](https://www.kaggle.com/competitions)
+
+## On Meetup.com in/near London
 
 1. [Applied Deep Learning Meetup](http://www.meetup.com/Applied-Deep-Learning-Meetup/): "*This group is for mathematicians, artificial intelligence specialists and deep learning specialist who want to exchange experience with different models, algorithms and tools. We are from industry and academia. We use tools such as Caffe, Theano or Torch. We use algorithms such as Convolutional Deep Neuronal Networks, Deep Belive Networks, Deep Kernel Machines, Stacked (Denoising) Auto-Encoders and Deep Boltzmann Machines. Applied fields include speech recognition, robotics, natural language processing, image and video recognition and pattern recognition in sensor data. We do not accept people without knowledge of AI.*" (324 Deep Learners, 0 past or future events)
 
