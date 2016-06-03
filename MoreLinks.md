@@ -4,8 +4,6 @@
 
 [Massive Throughput Database Queries with LLVM on GPUs](http://www.mapd.com/blog/2016/04/27/massive-throughput-database-queries-with-llvm-on-gpus/) ([HN](https://news.ycombinator.com/item?id=11654659))
 
-[Vindinium is an Artificial Intelligence programming challenge](http://vindinium.org/) ([HN](https://news.ycombinator.com/item?id=11720149))
-
 [OpenAI Gym](https://openai.com/blog/openai-gym-beta/), a toolkit for developing and comparing reinforcement learning (RL) algorithms. ([HN](https://news.ycombinator.com/item?id=11722353))
 
 What is this?: [Adaptive Neural Compilation](http://www.robots.ox.ac.uk/~rudy/publications/2016-05-21-anc.html) ([HN](https://news.ycombinator.com/item?id=11784959))

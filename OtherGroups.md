@@ -2,7 +2,9 @@
 
 ## Online
 
-[Kaggle's data science competitions](https://www.kaggle.com/competitions)
+* [Vindinium is an Artificial Intelligence programming challenge](http://vindinium.org/) ([HN](https://news.ycombinator.com/item?id=11720149))
+
+* [Kaggle's data science competitions](https://www.kaggle.com/competitions)
 
 ## On Meetup.com in/near London
 
