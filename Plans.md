@@ -31,7 +31,7 @@ learning Julia on.
 ## Done so far
 
 * watched "Intro to AI" videos 1-34 on Youtube (see
-  [README](README.md)). Have implemented the first two path search
+  [Teaching](Teaching.md)). Have implemented the first two path search
   algorithms presented in the videos [in Scheme](https://github.com/LondonHackspaceAI/stanford-intro-ai/tree/master/scheme).
 
 * Borg is usable with Ubuntu (but it's outdated, Debian testing would
