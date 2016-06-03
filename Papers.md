@@ -19,5 +19,6 @@ here, and add your name so that.*
 
 ## Lists of papers
 
-* [http://www.andrewng.org/publications/](http://www.andrewng.org/publications/)
+* [Publications](http://www.andrewng.org/publications/) by Andrew Ng
+  (see [People](People.md))
 
