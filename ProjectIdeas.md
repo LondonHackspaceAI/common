@@ -25,4 +25,6 @@ better precision)
 
 ## Nick
 
-   * Image recognition of foxes versus cats versus humans in video streams
+   * Image recognition of foxes versus cats versus humans in video streams 
+     (perhaps note [Andrew Ng's research](People.md)?)
+
