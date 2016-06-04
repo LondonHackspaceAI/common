@@ -18,7 +18,7 @@
 
 ## Data Sets
 
-* [Kaggle datasets](https://www.kaggle.com/datasets) (Kaggle is a super interesting place even without datasets, also see [OtherGroups](OtherGroups.md))
+* [Kaggle datasets](https://www.kaggle.com/datasets) (Kaggle is a super interesting place even without datasets, also see Kaggle's data science competitions on [OtherGroups](OtherGroups.md))
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Database_download#English-language_Wikipedia)
 
