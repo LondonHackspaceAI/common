@@ -15,9 +15,12 @@ What is this?: [Adaptive Neural Compilation](http://www.robots.ox.ac.uk/~rudy/pu
 
 [Google supercharges machine learning tasks with TPU custom chip](https://cloudplatform.googleblog.com/2016/05/Google-supercharges-machine-learning-tasks-with-custom-chip.html) ([HN](https://news.ycombinator.com/item?id=11724763))
 
-## Some interesting Data Sets:
-[Kaggle datasets, Kaggle is a super interesting place even without datasets :-):] (https://www.kaggle.com/datasets)
-[Wikipedia:](https://en.wikipedia.org/wiki/Wikipedia:Database_download#English-language_Wikipedia)
-[a big ready list:](https://r-dir.com/reference/datasets.html)
 
+## Some interesting Data Sets
+
+[Kaggle datasets](https://www.kaggle.com/datasets) (Kaggle is a super interesting place even without datasets, also see [OtherGroups](OtherGroups.md))
+
+[Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Database_download#English-language_Wikipedia)
+
+[a big ready list](https://r-dir.com/reference/datasets.html)
 
