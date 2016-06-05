@@ -39,6 +39,8 @@
 
   Bob has been through the reinforcement learning bits. Thinks it's good.
 
+* [Stanford CS231n Winter 2016](https://www.youtube.com/watch?v=kDB5ErpJCW0&index=5&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
+
 ## Other online materials
 
 (James) This seems like it could be a nice introduction to neural networks:
@@ -46,3 +48,4 @@
 
 (James) This drops you half way through chapter 1 if you're not a mathematician:  http://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Chapter1.ipynb
 Not recommended!
+
