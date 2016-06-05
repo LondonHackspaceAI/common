@@ -35,3 +35,5 @@
 
 * [Introduction to Artificial Intelligence - Pieter Abbeel, Dan Klein](https://www.youtube.com/watch?v=Xa8twbs8SI4&list=PL-XXv-cvA_iA4YSaTMfF_K_wvrKAY2H8u)
 
+* [Stanford CS231n Winter 2016](https://www.youtube.com/watch?v=kDB5ErpJCW0&index=5&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
+
