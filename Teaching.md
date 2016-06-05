@@ -33,5 +33,8 @@
 
 * [Coursera: Machine Learning (Stanford University)](https://www.coursera.org/learn/machine-learning/) (Instructor: Andrew Ng (see [People](People.md), i.e. Stanford University course CS229a, correct?)
 
+  Bob might be interested, looks steep.
+
 * [Introduction to Artificial Intelligence - Pieter Abbeel, Dan Klein](https://www.youtube.com/watch?v=Xa8twbs8SI4&list=PL-XXv-cvA_iA4YSaTMfF_K_wvrKAY2H8u)
 
+  Bob has been through the reinforcement learning bits. Thinks it's good.
