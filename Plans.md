@@ -79,6 +79,30 @@ learning Julia on.
     - parallel programming in Julia (Christian)
 
 
+* Meeting on Sun May 29 (7pm intended, 7:30pm start since people
+  relied on public calendar that wasn't updated):
+
+  Sam (and Christian) showed Julia version of the path search. The
+  implementation shown is purely functional. There's still work that
+  *could* (but not necessarily will) be done:
+
+    * add tests
+    * 'check visited cities' optimization
+    * set / queue instead of arrays (optimization) -> 3rd party
+      library seen on Github
+    * newer algorithms
+    * parallelize
+
+  Christian showed what he found with regards to parallelization in
+  Julia (using its core infrastructure only) as well as in C for
+  comparison. (Topic partially unfinished, 3rd party libraries should
+  offer better performance.)
+
+  Suggestion to perhaps do some sessions Code dojo style (decide on a
+  problem to solve/implement, someone (maybe changing) sits at the
+  computer projected to the screen, the others tell how).
+
+
 ## Next steps
 
 * install LDAP user accounts in the chroot (and separate home from
