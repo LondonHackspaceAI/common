@@ -28,15 +28,22 @@ community is doing, and to get a hold on their vocabulary. Also, those
 algorithms like the path search do seem like nice examples to base
 learning Julia on.
 
-## Done so far
 
-* watched "Intro to AI" videos 1-34 on Youtube (see
+## Status
+
+* **"Intro to AI"**: watched videos 1-34 on Youtube (see
   [Teaching](Teaching.md)). Have implemented the first two path search
-  algorithms presented in the videos [in Scheme](https://github.com/LondonHackspaceAI/stanford-intro-ai/tree/master/scheme).
+  algorithms presented in the videos [in
+  Scheme](https://github.com/LondonHackspaceAI/stanford-intro-ai/tree/master/scheme),
+  as well as the first in Julia (also others in progress)
 
-* Borg is usable with Ubuntu (but it's outdated, Debian testing would
-  always give access to recent stuff, and Jasper prefers it from an
-  admin point of view)
+* **Borg**: still runs Ubuntu as the host (now with SSH on port 1022), but
+  has a chroot with Debian testing on the default SSH port. TODO:
+  upgrade Ubuntu release (security upgrades have finished?), LDAP in
+  chroot (talk to Jasper).
+
+
+## Historic notes
 
 * May 8: decision to have at most one meeting per week. Look out for possibilities of working individually or in subgroups and then present the results, to progress a bit faster.
 
@@ -71,10 +78,6 @@ learning Julia on.
 
     - parallel programming in Julia (Christian)
 
-* installed Debian and Julia on the Borg (Christian), Debian is still
-  in the chroot, but it works now for (non-LDAP) user accounts
-  (switched over to sysv init)
-
 
 ## Next steps
 
@@ -87,16 +90,16 @@ learning Julia on.
 
 * Tony reads [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp](http://norvig.com/paip.html)
 
-* reimplement the Scheme program(s) in Julia, continue watching the
-  "Intro to AI" videos and implement them in Julia.
+* continue watching the "Intro to AI" videos and implement them in
+  Julia?
 
 * decide whether and when to jump forward to neural network
   algorithms? 
 
 * play a bit with Tensorflow (and/or [Leaf](https://github.com/autumnai/leaf) and/or Torch) anyway already?
 
-## Suggestions
 
+## Suggestions
 
 * Interesting links from Bob about the hairyness of advanced
   algorithms:
