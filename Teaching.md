@@ -33,3 +33,5 @@
 
 * [Coursera: Machine Learning (Stanford University)](https://www.coursera.org/learn/machine-learning/) (Instructor: Andrew Ng (see [People](People.md), i.e. Stanford University course CS229a, correct?)
 
+* [Introduction to Artificial Intelligence - Pieter Abbeel, Dan Klein](https://www.youtube.com/watch?v=Xa8twbs8SI4&list=PL-XXv-cvA_iA4YSaTMfF_K_wvrKAY2H8u)
+
