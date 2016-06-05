@@ -38,3 +38,11 @@
 * [Introduction to Artificial Intelligence - Pieter Abbeel, Dan Klein](https://www.youtube.com/watch?v=Xa8twbs8SI4&list=PL-XXv-cvA_iA4YSaTMfF_K_wvrKAY2H8u)
 
   Bob has been through the reinforcement learning bits. Thinks it's good.
+
+## Other online materials
+
+(James) This seems like it could be a nice introduction to neural networks:
+[nn-from-scratch](https://github.com/dennybritz/nn-from-scratch/blob/master/nn-from-scratch.ipynb)
+
+(James) This drops you half way through chapter 1 if you're not a mathematician:  http://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Chapter1.ipynb
+Not recommended!
