@@ -26,3 +26,5 @@
 
 [The Truth About Deep Learning](http://blog.claymcleod.io/2016/06/01/The-truth-about-Deep-Learning/) ([HN](https://news.ycombinator.com/item?id=11819525))
 
+[What is the difference between deep learning and usual machine learning?](https://github.com/rasbt/python-machine-learning-book/blob/master/faq/difference-deep-and-normal-learning.md) ([HN](https://news.ycombinator.com/item?id=11840175))
+
