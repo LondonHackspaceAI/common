@@ -15,6 +15,8 @@
 
 * [Google supercharges machine learning tasks with TPU custom chip](https://cloudplatform.googleblog.com/2016/05/Google-supercharges-machine-learning-tasks-with-custom-chip.html) ([HN](https://news.ycombinator.com/item?id=11724763))
 
+* [Former NASA chief unveils $100 million neural chip maker KnuEdge](http://venturebeat.com/2016/06/06/former-nasa-chief-unveils-100-million-neural-computing-chip-company-knuedge/) ([HN](https://news.ycombinator.com/item?id=11845698))
+
 
 ## Data Sets
 
