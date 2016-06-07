@@ -11,7 +11,8 @@
 
 ## Hardware
 
-* [NVIDIA GeForce GTX 1080 .. Performance Faster Than Titan X and 980 SLI](http://wccftech.com/nvidia-geforce-gtx-1080-launch/), [HN](https://news.ycombinator.com/item?id=11648110)
+* [NVIDIA GeForce GTX 1080 .. Performance Faster Than Titan X and 980 SLI](http://wccftech.com/nvidia-geforce-gtx-1080-launch/), [HN](https://news.ycombinator.com/item?id=11648110); also:
+  * [8x Nvidia GTX 1080 Hashcat Benchmarks](https://gist.github.com/epixoip/a83d38f412b4737e99bbef804a270c40) ([HN](https://news.ycombinator.com/item?id=11852958))
 
 * [Google supercharges machine learning tasks with TPU custom chip](https://cloudplatform.googleblog.com/2016/05/Google-supercharges-machine-learning-tasks-with-custom-chip.html) ([HN](https://news.ycombinator.com/item?id=11724763))
 
