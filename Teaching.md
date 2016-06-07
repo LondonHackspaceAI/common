@@ -41,6 +41,11 @@
 
 * [Stanford CS231n Winter 2016](https://www.youtube.com/watch?v=kDB5ErpJCW0&index=5&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
 
+### For later
+
+[CS 281B (Berkeley): Statistical Learning Theory](http://people.eecs.berkeley.edu/~jordan/courses/281B-spring04/) ([HN](https://news.ycombinator.com/item?id=11844884))
+
+
 ## Other online materials
 
 * (James) This seems like it could be a nice introduction to neural networks: "Implementing a Neural Network from Scratch - An Introduction" [nn-from-scratch](https://github.com/dennybritz/nn-from-scratch/blob/master/nn-from-scratch.ipynb)
