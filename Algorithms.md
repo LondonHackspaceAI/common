@@ -6,7 +6,8 @@ meant to serve us as a "mind map" for exploration. If you know an
 answer, feel free to write it up in your page(s) in the
 [users/](users/) area and link it from the term here (add something
 like [Christian](users/Christian.md)). We may chose *not* to read
-those pages if we feel like finding out the answers ourselves.
+those pages right away though if we feel like finding out the answers
+ourselves.
 
 
 * regression
