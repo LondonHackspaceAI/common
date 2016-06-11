@@ -1,5 +1,7 @@
 # AI group plans
 
+Also see [Calendar](Calendar.md).
+
 ## Objectives
 
 - learn Julia
