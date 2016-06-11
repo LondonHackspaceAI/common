@@ -20,8 +20,9 @@ in [Plans](Plans.md).
 
 * June 5
 
-  * not organized that much (more path search but wait until perhaps
-    tests and parallelism done)
+  * Peter showed Jupyter
+  * otherwise not organized that much (did some more path search but
+    wait until perhaps tests and parallelism done)
   * two new members (Peter and James), Bob was there, too. Those three
     discuss a lot amongst them, we ponder various ways going forward.
 
