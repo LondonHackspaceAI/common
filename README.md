@@ -9,6 +9,7 @@ You can edit .md files right from Github if you're logged in, and member of the 
 ## Pages
 
 * [Plans](Plans.md)
+* [Algorithms](Algorithms.md)
 * [Teaching](Teaching.md)
 * [Julia](Julia.md)
 * [Project Ideas](ProjectIdeas.md)
