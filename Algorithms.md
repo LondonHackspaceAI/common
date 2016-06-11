@@ -9,6 +9,10 @@ like [Christian](users/Christian.md)). We may chose *not* to read
 those pages if we feel like finding out the answers ourselves.
 
 
+* regression
+  * linear
+  * general?
+
 * Bayes
   * cs188 has some  as has intro to ai
 
