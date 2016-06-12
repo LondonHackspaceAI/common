@@ -17,10 +17,11 @@ in [Plans](Plans.md).
 * May 29
 
   * path search in Julia (Sam (and Christian))
+  * status on parallelization in Julia, in core (Christian)
 
 * June 5
 
-  * Peter showed Jupyter
+  * Peter demonstrated Jupyter
   * otherwise not organized that much (did some more path search but
     wait until perhaps tests and parallelism done)
   * two new members (Peter and James), Bob was there, too. Those three
