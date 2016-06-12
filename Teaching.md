@@ -43,7 +43,7 @@
 
 * course by Geoffrey Hinton (see [People](People.md))
 
-  * [Coursera](https://www.coursera.org/instructor/%7E154)
+  * [Coursera](https://www.coursera.org/course/neuralnets)
 
 
 ### For later
