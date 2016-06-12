@@ -82,7 +82,7 @@ learning Julia on.
 
 
 * Meeting on Sun May 29 (7pm intended, 7:30pm start since people
-  relied on public calendar that wasn't updated):
+  using the room relied on public calendar that wasn't updated):
 
   Sam (and Christian) showed Julia version of the path search. The
   implementation shown is purely functional. There's still work that
@@ -103,6 +103,17 @@ learning Julia on.
   Suggestion to perhaps do some sessions Code dojo style (decide on a
   problem to solve/implement, someone (maybe changing) sits at the
   computer projected to the screen, the others tell how).
+
+* Meeting on Sun May 5 (7pm intended, ~7:15 actual start)
+
+  * two new members (Peter and James), Bob was there, too. Those three
+    discuss a lot amongst them, we ponder various ways going forward.
+  * Peter demonstrated Jupyter
+  * Christian still didn't manage to watch videos. Showed Git slides
+    (seemed a bit pointless though)
+  * Mentioned more path search work but holding showing it off until
+    perhaps implementing tests, (newer algorithms?, optimizations,
+    and) parallelism
 
 
 ## Next steps
