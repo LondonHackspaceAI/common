@@ -165,3 +165,7 @@ learning Julia on.
 
 * read books, find articles? Read through Wikipedia articles (see [More links](MoreLinks.md))? Then present it?
 
+* implement [algorithms](Algorithms.md), present them. (Some of them
+  we may want to follow up on / learn / implement each on our own,
+  though?)
+
