@@ -50,7 +50,11 @@
 
   Bob has been through the reinforcement learning bits. Thinks it's good.
 
-* [Stanford CS231n Winter 2016](https://www.youtube.com/watch?v=kDB5ErpJCW0&index=5&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
+* [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) (Stanford, Fei-Fei Li, [Andrej Karpathy](http://cs.stanford.edu/people/karpathy/), [Justin Johnson](http://cs.stanford.edu/people/jcjohns/))
+
+  [syllabus](http://cs231n.stanford.edu/syllabus.html)
+
+  [Youtube, Winter 2016](https://www.youtube.com/watch?v=kDB5ErpJCW0&index=5&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
 
 * course by Geoffrey Hinton (see [People](People.md))
 
