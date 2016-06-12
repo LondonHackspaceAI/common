@@ -15,6 +15,8 @@ ourselves.
   * general?
   * (logistic regression?)
 
+  -> see [subgroups/Regression](subgroups/Regression.md)
+
 * Bayes
   * cs188 has some  as has intro to ai
 
