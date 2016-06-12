@@ -13,6 +13,7 @@ ourselves.
 * regression
   * linear
   * general?
+  * (logistic regression?)
 
 * Bayes
   * cs188 has some  as has intro to ai
@@ -23,11 +24,14 @@ ourselves.
   * stochastic gradient descent  (for one sample, randomly)
   * (step lengths)
 
-* (logistic regression?)
+* hidden markov?
+
+
+## Concepts
+
+Perhaps with algorithms 'attached'.
 
 * (choosing the cost function)
-
-* hidden markov?
 
 * tailor series
 
