@@ -9,17 +9,17 @@ in [Plans](Plans.md).
 * (Less organized meetings (not in the classroom yet) were on .. and
   May 8.)
 
-* May 13
+* **May 13: classroom meeting**
 
   * Start learning Julia: short presentation by Bob; try parallel on
     the big monitor.
 
-* May 29
+* **May 29: classroom meeting**
 
   * path search in Julia (Sam (and Christian))
   * status on parallelization in Julia, in core (Christian)
 
-* June 5
+* **June 5: classroom meeting**
 
   * Peter demonstrated Jupyter
   * otherwise not organized that much (did some more path search but
@@ -29,28 +29,30 @@ in [Plans](Plans.md).
 
 <hr/>
 
-* June 19
+
+* **June 19: classroom meeting**
 
   * report on Regression?
 
-* July 3
+* **July 3: classroom meeting**
 
   * report more on Regression?
   * report on Bayes?
 
-* July 17
+* **July 17: classroom meeting**
 
   * wrap up Bayes and Regression?
   * work on something new already? 
 
-* August 7
+* **August 7: classroom meeting**
 
-* August 21
+* **August 21: classroom meeting**
 
-* September 11
+* **September 11: classroom meeting**
 
-* September 18?
+* **September 18?: classroom meeting**
 
-* October 9
+* **October 9: classroom meeting**
 
-* October 23
+* **October 23: classroom meeting**
+
