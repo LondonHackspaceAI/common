@@ -41,6 +41,11 @@
 
 * [Stanford CS231n Winter 2016](https://www.youtube.com/watch?v=kDB5ErpJCW0&index=5&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
 
+* course by Geoffrey Hinton (see [People](People.md))
+
+  * [Coursera](https://www.coursera.org/instructor/%7E154)
+
+
 ### For later
 
 [CS 281B (Berkeley): Statistical Learning Theory](http://people.eecs.berkeley.edu/~jordan/courses/281B-spring04/) ([HN](https://news.ycombinator.com/item?id=11844884))

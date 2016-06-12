@@ -2,6 +2,23 @@
 
 (sorted alphabetically by last name)
 
+* [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton) ([home page (toronto.edu)](https://www.cs.toronto.edu/~hinton/))
+
+  British-born cognitive psychologist and computer scientist, most
+  noted for his work on artificial neural networks. As of 2015 he
+  divides his time working for Google and University of Toronto. He
+  was one of the first researchers who demonstrated the use of
+  generalized backpropagation algorithm for training multi-layer
+  neural nets.
+
+  He co-invented [Boltzmann
+  machines](https://en.wikipedia.org/wiki/Boltzmann_machine) with
+  Terry Sejnowski.
+
+  His current main interest is in unsupervised learning procedures for
+  neural networks with rich sensory input.[citation needed]
+
+
 * [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng) ([home page](http://www.andrewng.org/))
 
   Associate Professor at Stanford. Chairman and Co-Founder of
