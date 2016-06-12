@@ -39,11 +39,18 @@ learning Julia on.
   Scheme](https://github.com/LondonHackspaceAI/stanford-intro-ai/tree/master/scheme),
   as well as the first in Julia (also others in progress)
 
-* **Borg**: still runs Ubuntu as the host (now with SSH on port 1022), but
-  has a chroot with Debian testing on the default SSH port. TODO:
-  upgrade Ubuntu release (security upgrades have finished?), LDAP in
-  chroot (talk to Jasper).
+* **Borg**: 
 
+  * still runs Ubuntu as the host (now with SSH on port 1022), but has
+  a chroot with Debian testing on the default SSH port. TODO: upgrade
+  Ubuntu release (security upgrades have finished?), LDAP in chroot
+  (talk to Jasper).
+
+  * user chris has successfully installed libraries for Jupyter. TODO:
+    move to other user account, access etc.
+
+* **GPU**: we've got a computer with a relatively good (if somewhat
+  aged) GPU now.
 
 ## Historic notes
 
