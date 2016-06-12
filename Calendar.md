@@ -2,7 +2,8 @@
 
 Our scheduled meetings and what we plan to do on each. More details on
 individual meetings might be available in the 'Historic notes' section
-in [Plans](Plans.md).
+in [Plans](Plans.md). The meetings for the whole group are in bold
+text ('classroom meetings').
 
 <hr/>
 
@@ -29,6 +30,9 @@ in [Plans](Plans.md).
 
 <hr/>
 
+* Friday June 17 (from 5 PM?): subgroup (Christian): algorithm implementation (Bayes? / Regression)
+
+* Saturday June 18 (from 5 PM): subgroup (Christian): algorithm implementation (Regression?)
 
 * **Sunday June 19: classroom meeting**
 
