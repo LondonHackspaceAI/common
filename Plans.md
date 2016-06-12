@@ -107,6 +107,11 @@ learning Julia on.
 
 ## Next steps
 
+* Jupyter on Borg: make accessible to all. Figure out security
+  concept. How to Git commit files. Whether working on the same sheet
+  by multiple people at the same time works, whether working on
+  different sheets by multiple people works.
+
 * install LDAP user accounts in the chroot (and separate home from
   ubuntu)?
 
