@@ -30,11 +30,18 @@ in [Plans](Plans.md).
 <hr/>
 
 * June 19
-  * ? Peter: 
+
+  * report on Regression?
 
 * July 3
 
+  * report more on Regression?
+  * report on Bayes?
+
 * July 17
+
+  * wrap up Bayes and Regression?
+  * work on something new already? 
 
 * August 7
 
