@@ -14,9 +14,10 @@
 
 *  "Intro to AI - Introduction to Artificial Intelligence": [www.ai-class.com](http://www.ai-class.com/), redirects to [Udacity](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271) (Instructors: Peter Norvig, Sebastian Thrun)
 
-  * [Youtube](https://www.youtube.com/watch?v=BnIJ7Ba5Sr4&index=1&list=PLE0157B77891C4FE8).
+  * [index](https://github.com/lorenzo-stoakes/stanford-ai/blob/master/index.md), 
+    from [Course notes by some student](https://github.com/lorenzo-stoakes/stanford-ai).
 
-  * [Course notes by some student](https://github.com/lorenzo-stoakes/stanford-ai).
+  * [Youtube](https://www.youtube.com/watch?v=BnIJ7Ba5Sr4&index=1&list=PLE0157B77891C4FE8).
 
   * (The Stanford AI group also has [various other courses](http://ai.stanford.edu/courses/), by the way.)
 
