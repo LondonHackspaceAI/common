@@ -112,6 +112,9 @@ learning Julia on.
   by multiple people at the same time works, whether working on
   different sheets by multiple people works.
 
+* should we connect Peter's machine to the net and leave accessible?
+  How is power usage of that?
+
 * install LDAP user accounts in the chroot (and separate home from
   ubuntu)?
 
