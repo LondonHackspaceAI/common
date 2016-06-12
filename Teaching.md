@@ -10,6 +10,10 @@
 
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
 
+* [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online)
+
+* [Information Theory, Inference, and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itila/p0.html)
+
 ## Online courses
 
 *  "Intro to AI - Introduction to Artificial Intelligence": [www.ai-class.com](http://www.ai-class.com/), redirects to [Udacity](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271) (Instructors: Peter Norvig, Sebastian Thrun)
@@ -20,6 +24,8 @@
   * [Youtube](https://www.youtube.com/watch?v=BnIJ7Ba5Sr4&index=1&list=PLE0157B77891C4FE8).
 
   * (The Stanford AI group also has [various other courses](http://ai.stanford.edu/courses/), by the way.)
+
+  * [Nando de Freitas has an AI course online](https://youtu.be/fXgYnCAcdTc)
 
 
 * [Stanford University CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html) (Instructor: Richard Socher) (Bob is working through that one)
