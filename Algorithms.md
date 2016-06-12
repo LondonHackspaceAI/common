@@ -18,6 +18,7 @@ ourselves.
   * cs188 has some  as has intro to ai
 
 * gradient descent
+  * first: newton's algorithm?
   * with differentiable functions?
   * stochastic gradient descent  (for one sample, randomly)
   * (step lengths)
