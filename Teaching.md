@@ -39,7 +39,14 @@
 
   Bob might be interested, looks steep.
 
-* [Introduction to Artificial Intelligence - Pieter Abbeel, Dan Klein](https://www.youtube.com/watch?v=Xa8twbs8SI4&list=PL-XXv-cvA_iA4YSaTMfF_K_wvrKAY2H8u)
+* [Computer Science 188: Introduction to Artificial Intelligence](http://inst.eecs.berkeley.edu/~cs188/)
+  ([Pieter Abbeel](https://www.eecs.berkeley.edu/Faculty/Homepages/abbeel.html),
+   [Dan Klein](http://people.eecs.berkeley.edu/~klein/)):
+  [Youtube 2015](https://www.youtube.com/watch?v=Xa8twbs8SI4&list=PL-XXv-cvA_iA4YSaTMfF_K_wvrKAY2H8u)
+
+  [index for fall '11](http://inst.eecs.berkeley.edu/~cs188/fa11/lectures.html)
+
+  Recommends [Russel, Norvig: AI: A Modern Approach](http://aima.cs.berkeley.edu/) as accompanying book (but "this is not a course textbook, things are followed a bit different")
 
   Bob has been through the reinforcement learning bits. Thinks it's good.
 
