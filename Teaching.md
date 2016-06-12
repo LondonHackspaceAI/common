@@ -25,9 +25,6 @@
 
   * (The Stanford AI group also has [various other courses](http://ai.stanford.edu/courses/), by the way.)
 
-  * [Nando de Freitas has an AI course online](https://youtu.be/fXgYnCAcdTc)
-
-
 * [Stanford University CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html) (Instructor: Richard Socher) (Bob is working through that one)
 
     * Youtube has the 2015 videos
@@ -51,6 +48,9 @@
 * course by Geoffrey Hinton (see [People](People.md))
 
   * [Coursera](https://www.coursera.org/course/neuralnets)
+
+* [Nando de Freitas](http://www.cs.ubc.ca/~nando/) has an AI course online: [Youtube](https://youtu.be/fXgYnCAcdTc)
+
 
 
 ### For later
