@@ -56,9 +56,10 @@
 
   [Youtube, Winter 2016](https://www.youtube.com/watch?v=kDB5ErpJCW0&index=5&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
 
-* course by Geoffrey Hinton (see [People](People.md))
+* course by [Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/) (see [People](People.md))
 
   * [Coursera](https://www.coursera.org/course/neuralnets)
+  * can't find syllabus
 
 * [Nando de Freitas](http://www.cs.ubc.ca/~nando/) has an AI course online: [Youtube](https://youtu.be/fXgYnCAcdTc)
 
