@@ -2,12 +2,12 @@
 
 (led by Christian)
 
-We want to tackle these points from the [Algorithms](Algorithms.md) page:
+We want to tackle these points from the [Algorithms](../Algorithms.md) page:
 
-    * regression
-      * linear
-      * general?
-      * (logistic regression?)
+* regression
+  * linear
+  * general?
+  * (logistic regression?)
 
 ## Possible courses to follow (from the [Teaching](Teaching.md) page):
 
