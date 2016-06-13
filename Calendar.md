@@ -32,9 +32,9 @@ meeting'). They usually start at 7 PM.
 
 <hr/>
 
-* Friday June 17 (from 5 PM?): subgroup (Christian): algorithm implementation (Bayes? / Regression)
+* Friday June 17 (from 5 PM?): (Christian): [subgroups/Regression](subgroups/Regression.md)?, or Bayes?
 
-* Saturday June 18 (from 5 PM): subgroup (Christian): algorithm implementation (Regression?)
+* Saturday June 18 (from 5 PM): [subgroups/Regression](subgroups/Regression.md)
 
 * **Sunday June 19: classroom meeting**
 
