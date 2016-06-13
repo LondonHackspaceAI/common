@@ -9,7 +9,7 @@ We want to tackle these points from the [Algorithms](../Algorithms.md) page:
   * general?
   * (logistic regression?)
 
-## Possible courses to follow (from the [Teaching](Teaching.md) page):
+## Possible courses to follow (from the [Teaching](Teaching.md) page)?
 
 * "Intro to AI" (Stanford, Peter Norvig, Sebastian Thrun): <font color="green">**yes**</font> see [index](https://github.com/lorenzo-stoakes/stanford-ai/blob/master/index.md)
 
