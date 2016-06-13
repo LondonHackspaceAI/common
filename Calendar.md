@@ -2,8 +2,10 @@
 
 Our scheduled meetings and what we plan to do on each. More details on
 individual meetings might be available in the 'Historic notes' section
-in [Plans](Plans.md). The meetings for the whole group are in bold
-text ('classroom meetings').
+in [Plans](Plans.md). 
+
+The meetings for the whole group are in bold text ('classroom
+meeting'). They usually start at 7 PM.
 
 <hr/>
 
