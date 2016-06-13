@@ -1,12 +1,12 @@
 # Neural Networks
 
-## Tensorflow
+## TensorFlow
 
-* [Tensorflow](http://tensorflow.org)
+* [TensorFlow](http://tensorflow.org)
 
 * [Tinker With a Neural Network in Your Browser](http://playground.tensorflow.org/) (tensorflow.org) ([HN](https://news.ycombinator.com/item?id=11483934))
 
-* [Number plate recognition with Tensorflow - Matt's ramblings](https://matthewearl.github.io/2016/05/06/cnn-anpr/) ([HN](https://news.ycombinator.com/item?id=11655359))
+* [Number plate recognition with TensorFlow - Matt's ramblings](https://matthewearl.github.io/2016/05/06/cnn-anpr/) ([HN](https://news.ycombinator.com/item?id=11655359))
 
 * (copy from [Teaching](Teaching.md)) [Udacity Deep Learning](https://www.udacity.com/course/deep-learning--ud730) basically an introduction to [TensorFlow](https://www.tensorflow.org/). 
 

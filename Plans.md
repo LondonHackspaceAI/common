@@ -138,7 +138,7 @@ learning Julia on.
 
 * install [Torch](http://torch.ch/) on the Debian on the Borg? (Bob
   has been using it.) Figure out why it doesn't use the available
-  cores much. Install Tensorflow, Leaf (see [More links](MoreLinks.md)).
+  cores much. Install TensorFlow, Leaf (see [More links](MoreLinks.md)).
 
 * Tony reads [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp](http://norvig.com/paip.html)
 
@@ -148,7 +148,7 @@ learning Julia on.
 * decide whether and when to jump forward to neural network
   algorithms? 
 
-* play a bit with Tensorflow (and/or [Leaf](https://github.com/autumnai/leaf) and/or Torch) anyway already?
+* play a bit with TensorFlow (and/or [Leaf](https://github.com/autumnai/leaf) and/or Torch) anyway already?
 
 
 ## Suggestions

@@ -33,7 +33,7 @@
       sessions on the page linked above.
 
     * Bob so far has watched the first ~8 sessions from 2015, and one
-      (Tensorflow) from 2016.
+      (TensorFlow) from 2016.
 
 * [Coursera: Machine Learning (Stanford University)](https://www.coursera.org/learn/machine-learning/) (Instructor: Andrew Ng (see [People](People.md), i.e. Stanford University course CS229a, correct?)
 
