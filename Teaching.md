@@ -63,7 +63,7 @@
 
 * [Nando de Freitas](http://www.cs.ubc.ca/~nando/) has an AI course online: [Youtube](https://youtu.be/fXgYnCAcdTc)
 
-* [Udacity Deep Learning] (https://www.udacity.com/course/deep-learning--ud730) basically an introduction to [TensorFlow] (https://www.tensorflow.org/). 
+* [Udacity Deep Learning] (https://www.udacity.com/course/deep-learning--ud730) basically an introduction to TensorFlow (see TensorFlow section in [NeuralNetworks](NeuralNetworks.md)).
 
 
 
