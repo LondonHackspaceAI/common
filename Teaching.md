@@ -69,10 +69,13 @@
 * [Udacity Deep Learning] (https://www.udacity.com/course/deep-learning--ud730) basically an introduction to TensorFlow (see TensorFlow section in [NeuralNetworks](NeuralNetworks.md)).
 
 
+### Lists
+
+* [Awesome Courses](https://github.com/prakhar1989/awesome-courses)
 
 ### For later
 
-[CS 281B (Berkeley): Statistical Learning Theory](http://people.eecs.berkeley.edu/~jordan/courses/281B-spring04/) ([HN](https://news.ycombinator.com/item?id=11844884))
+* [CS 281B (Berkeley): Statistical Learning Theory](http://people.eecs.berkeley.edu/~jordan/courses/281B-spring04/) ([HN](https://news.ycombinator.com/item?id=11844884))
 
 
 ## Other online materials
