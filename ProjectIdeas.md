@@ -28,3 +28,7 @@ better precision)
    * Image recognition of foxes versus cats versus humans in video streams 
      (perhaps note [Andrew Ng's research](People.md)?)
 
+## Dave
+
+   * Enter one of the competitions from [Kaggle] (http://www.kaggle.com) or similar
+
