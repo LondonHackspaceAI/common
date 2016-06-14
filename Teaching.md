@@ -39,9 +39,12 @@
 
   Bob might be interested, looks steep.
 
-* [Computer Science 188: Introduction to Artificial Intelligence](http://inst.eecs.berkeley.edu/~cs188/)
+* [CS188: Introduction to Artificial Intelligence](http://inst.eecs.berkeley.edu/~cs188/)
   ([Pieter Abbeel](https://www.eecs.berkeley.edu/Faculty/Homepages/abbeel.html),
    [Dan Klein](http://people.eecs.berkeley.edu/~klein/)):
+
+  [new website?](http://ai.berkeley.edu/home.html), [index](http://ai.berkeley.edu/lecture_videos.html) ([HN](https://news.ycombinator.com/item?id=11897766): "mostly focused on good old fashioned AI - things like tree/graph search, constraint satisfaction, logic, some basic graphical models, and a bit of RL/ML at the end". "CS188 vs Udacity's Intro to AI?"--"The Berkeley one is a bit slower and it has a statistics/probability refresher. I found it much easier to follow at 1.5x speed. I'd recommend the Udacity one if your stats/probability knowledge is fresh or if you're re-learning the topics. ")
+
   [Youtube 2015](https://www.youtube.com/watch?v=Xa8twbs8SI4&list=PL-XXv-cvA_iA4YSaTMfF_K_wvrKAY2H8u)
 
   [index for fall '11](http://inst.eecs.berkeley.edu/~cs188/fa11/lectures.html)
