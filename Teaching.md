@@ -69,6 +69,11 @@
 * [Udacity Deep Learning] (https://www.udacity.com/course/deep-learning--ud730) basically an introduction to TensorFlow (see TensorFlow section in [NeuralNetworks](NeuralNetworks.md)).
 
 
+### Technical
+
+* [CS 179: GPU Programming](http://courses.cms.caltech.edu/cs179/) (CUDA only, it seems) ([HN](https://news.ycombinator.com/item?id=11902172))
+
+
 ### Lists
 
 * [Awesome Courses](https://github.com/prakhar1989/awesome-courses)
