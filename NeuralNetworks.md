@@ -30,3 +30,5 @@
 
 * [What is the difference between deep learning and usual machine learning?](https://github.com/rasbt/python-machine-learning-book/blob/master/faq/difference-deep-and-normal-learning.md) ([HN](https://news.ycombinator.com/item?id=11840175))
 
+* [Artificial intelligence produces realistic sounds that fool humans](http://news.mit.edu/2016/artificial-intelligence-produces-realistic-sounds-0613) (news.mit.edu) ([HN](https://news.ycombinator.com/item?id=11893868))
+
