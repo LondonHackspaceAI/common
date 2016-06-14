@@ -32,3 +32,5 @@
 
 * [Artificial intelligence produces realistic sounds that fool humans](http://news.mit.edu/2016/artificial-intelligence-produces-realistic-sounds-0613) (news.mit.edu) ([HN](https://news.ycombinator.com/item?id=11893868))
 
+* [Machine Learning is Fun! Part 3: Deep Learning and Convolutional Neural Networks](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721#) (Medium) ([HN](https://news.ycombinator.com/item?id=11902344))
+
