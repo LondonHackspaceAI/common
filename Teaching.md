@@ -35,7 +35,7 @@
     * Bob so far has watched the first ~8 sessions from 2015, and one
       (TensorFlow) from 2016.
 
-* [Coursera: Machine Learning (Stanford University)](https://www.coursera.org/learn/machine-learning/) (Instructor: Andrew Ng (see [People](People.md), i.e. Stanford University course CS229a, correct?)
+* [Coursera: Machine Learning (Stanford University)](https://www.coursera.org/learn/machine-learning/) (Instructor: Andrew Ng (see [People](People.md), i.e. Stanford University course CS229a, correct?). Note you can watch the full Stanford lectures either on [youtube] (https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599) or iTunes U. The Stanford lectures are more thorough than those in Coursera. If you go to the [materials page] (http://cs229.stanford.edu/materials.html) for CS229 there are some very good notes of Ng's to download. 
 
   Bob might be interested, looks steep.
 
@@ -89,4 +89,6 @@
 
 * (James) This drops you half way through chapter 1 if you're not a mathematician:  http://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Chapter1.ipynb
 Not recommended!
+
+* Jake Vanderplas' talk at [PyCon on scikit-learn]  (https://github.com/jakevdp/sklearn_pycon2015). Github has some ipytyhon notebooks you can take whilst watching. Gives a nice intro to the package.
 
