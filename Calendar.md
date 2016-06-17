@@ -45,6 +45,8 @@ meeting'). They usually start at 7 PM.
   * report more on Regression?
   * report on Bayes?
 
+* *Thusday July 7*: (free ACM Learning Webinar; we're not involved in this, this is just a reminder) Talk with ACM-Infosys Foundation Award Winner Jeff Dean: "Large-Scale Deep Learning with TensorFlow for Building Intelligent Systems" ([registration](https://www.acm.org/education))
+
 * **Sunday July 17: classroom meeting**
 
   * wrap up Bayes and Regression?
