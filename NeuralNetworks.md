@@ -34,3 +34,5 @@
 
 * [Machine Learning is Fun! Part 3: Deep Learning and Convolutional Neural Networks](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721#) (Medium) ([HN](https://news.ycombinator.com/item?id=11902344))
 
+* [What’s Next for Artificial Intelligence](http://www.wsj.com/articles/whats-next-for-artificial-intelligence-1465827619?href=) ([HN](https://news.ycombinator.com/item?id=11937214): "The huge triumph of DL has been figuring out that as long as you can pose a problem in a differentiable way and you can obtain a sufficient amount of data, you can efficiently tackle it with a function approximator that can be optimized with first order methods - from that, flows everything.  We have very little idea how to make really complicated problems differentiable. Maybe we will - but right now the toughest problems that we can put in a differentiable framework are those tackled by reinforcement learning, and the current approaches are incredibly inefficient. ")
+
