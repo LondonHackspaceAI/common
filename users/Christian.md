@@ -10,3 +10,5 @@
 
 * [How Google Is Remaking Itself for “Machine Learning First”](https://backchannel.com/how-google-is-remaking-itself-as-a-machine-learning-first-company-ada63defcb70#.nljh17nb5) ([HN](https://news.ycombinator.com/item?id=11954988))
 
+* [Deep-learning vision system from the Computer Science and Artificial Intelligence Lab anticipates human interactions using videos of TV shows](https://news.mit.edu/2016/teaching-machines-to-predict-the-future-0621) ([HN](https://news.ycombinator.com/item?id=11948590))
+
