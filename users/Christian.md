@@ -8,3 +8,5 @@
 
 * [darkforestGo: DarkForest, the Facebook Go engine](https://github.com/facebookresearch/darkforestGo) (github.com) ([HN](https://news.ycombinator.com/item?id=11922864))
 
+* [How Google Is Remaking Itself for “Machine Learning First”](https://backchannel.com/how-google-is-remaking-itself-as-a-machine-learning-first-company-ada63defcb70#.nljh17nb5) ([HN](https://news.ycombinator.com/item?id=11954988))
+
