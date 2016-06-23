@@ -10,6 +10,11 @@
 
 * (copy from [Teaching](Teaching.md)) [Udacity Deep Learning](https://www.udacity.com/course/deep-learning--ud730) basically an introduction to [TensorFlow](https://www.tensorflow.org/). 
 
+## Torch
+
+* TorchNet: [Lighting the way to deep machine learning](https://code.facebook.com/posts/580706092103929) ([HN](https://news.ycombinator.com/item?id=11962768))
+
+
 ## In Rust
 
 * [Leaf](https://github.com/autumnai/leaf), machine learning framework in Rust ([HN](https://news.ycombinator.com/item?id=11562805), [book](http://autumnai.com/leaf/book/leaf.html)) ("*a Machine Intelligence Framework engineered by hackers, not scientists*")
