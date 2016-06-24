@@ -12,3 +12,7 @@
 
 * [Deep-learning vision system from the Computer Science and Artificial Intelligence Lab anticipates human interactions using videos of TV shows](https://news.mit.edu/2016/teaching-machines-to-predict-the-future-0621) ([HN](https://news.ycombinator.com/item?id=11948590))
 
+* [AI, Apple and Google](http://ben-evans.com/benedictevans/2016/6/23/ai-apple-and-google) ([HN](https://news.ycombinator.com/item?id=11964658))
+
+* [AI effect](https://en.wikipedia.org/wiki/AI_effect)
+
