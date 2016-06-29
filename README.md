@@ -15,6 +15,7 @@ You can edit .md files right from Github if you're logged in, and member of the 
 * [Julia](Julia.md)
 * [Project Ideas](ProjectIdeas.md)
 * [Neural Networks](NeuralNetworks.md)
+* [GPGPU](GPGPU.md)
 * [Other Groups](OtherGroups.md)
 * [More links](MoreLinks.md)
 * [OpenAI](OpenAI.md)
