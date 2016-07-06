@@ -19,6 +19,8 @@ ourselves.
 
 * Bayes
   * cs188 has some  as has intro to ai
+  * ([Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference)?, 
+    [Kalman filter](https://en.wikipedia.org/wiki/K%C3%A1lm%C3%A1n_filter)?)
 
 * gradient descent
   * first: newton's algorithm?
