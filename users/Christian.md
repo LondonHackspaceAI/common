@@ -16,3 +16,5 @@
 
 * [AI effect](https://en.wikipedia.org/wiki/AI_effect)
 
+* [Chasing Cats](http://myplace.frontier.com/~r.bond/cats/cats.htm) (neural net), and [Flo Control Project](http://www.quantumpicture.com/Flo_Control/flo_control.htm) (~2002), [HN](https://news.ycombinator.com/item?id=12058864)
+
