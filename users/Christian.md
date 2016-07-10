@@ -18,3 +18,5 @@
 
 * [Chasing Cats](http://myplace.frontier.com/~r.bond/cats/cats.htm) (neural net), and [Flo Control Project](http://www.quantumpicture.com/Flo_Control/flo_control.htm) (~2002), [HN](https://news.ycombinator.com/item?id=12058864)
 
+* [Bayesian A/B Testing](http://developers.lyst.com/2014/05/10/bayesian-ab-testing/) ([HN](https://news.ycombinator.com/item?id=7815419), "Because Bayesian probability is not intuitive as we (as a society) currently approach statistics. If we start teaching Bayesian probability in grade school then maybe the next generation will 'get it' sufficiently to make mainstream applications possible.")
+
