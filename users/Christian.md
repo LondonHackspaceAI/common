@@ -20,3 +20,5 @@
 
 * [Bayesian A/B Testing](http://developers.lyst.com/2014/05/10/bayesian-ab-testing/) ([HN](https://news.ycombinator.com/item?id=7815419), "Because Bayesian probability is not intuitive as we (as a society) currently approach statistics. If we start teaching Bayesian probability in grade school then maybe the next generation will 'get it' sufficiently to make mainstream applications possible.")
 
+* [What's wrong with deep learning?](http://www.pamitc.org/cvpr15/files/lecun-20150610-cvpr-keynote.pdf) (PDF, 2015) ([HN](https://news.ycombinator.com/item?id=12089718), [video](http://techtalks.tv/talks/whats-wrong-with-deep-learning/61639/))
+
