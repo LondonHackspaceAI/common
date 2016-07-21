@@ -22,3 +22,5 @@
 
 * [What's wrong with deep learning?](http://www.pamitc.org/cvpr15/files/lecun-20150610-cvpr-keynote.pdf) (PDF, 2015) ([HN](https://news.ycombinator.com/item?id=12089718), [video](http://techtalks.tv/talks/whats-wrong-with-deep-learning/61639/))
 
+* [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/) ([HN](https://news.ycombinator.com/item?id=12135399))
+
