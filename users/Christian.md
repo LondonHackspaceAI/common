@@ -24,3 +24,5 @@
 
 * [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/) ([HN](https://news.ycombinator.com/item?id=12135399))
 
+* [https://news.ycombinator.com/item?id=12200196](https://news.ycombinator.com/item?id=12200196) (or boring?)
+
