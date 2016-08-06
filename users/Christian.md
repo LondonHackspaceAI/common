@@ -26,3 +26,7 @@
 
 * [https://news.ycombinator.com/item?id=12200196](https://news.ycombinator.com/item?id=12200196) (or boring?)
 
+* [From Linear Models to Machine Learning (draft)](http://heather.cs.ucdavis.edu/draftregclass.pdf) ([HN](https://news.ycombinator.com/item?id=12237998))
+
+* [Keras code and weights files for popular deep learning models](https://github.com/fchollet/deep-learning-models) ([HN](https://news.ycombinator.com/item?id=12239096))
+
