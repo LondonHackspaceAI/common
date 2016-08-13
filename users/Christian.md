@@ -30,3 +30,7 @@
 
 * [Keras code and weights files for popular deep learning models](https://github.com/fchollet/deep-learning-models) ([HN](https://news.ycombinator.com/item?id=12239096))
 
+* [Discovering ketosis: how to effectively lose weight](https://github.com/arielf/weight-loss) ([HN](https://news.ycombinator.com/item?id=12279415))
+
+* [Machine Learning Exercises In Python, Part 1](http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/) ("All of Andrew Ng's machine learning class in Python") ([HN](https://news.ycombinator.com/item?id=12279494#12280419))
+
