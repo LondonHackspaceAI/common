@@ -34,3 +34,5 @@
 
 * [Machine Learning Exercises In Python, Part 1](http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/) ("All of Andrew Ng's machine learning class in Python") ([HN](https://news.ycombinator.com/item?id=12279494#12280419))
 
+* [Grokking Deep Learning](https://iamtrask.github.io/2016/08/17/grokking-deep-learning/) ([HN](https://news.ycombinator.com/item?id=12309777))
+
