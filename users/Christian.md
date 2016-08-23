@@ -36,3 +36,5 @@
 
 * [Grokking Deep Learning](https://iamtrask.github.io/2016/08/17/grokking-deep-learning/) ([HN](https://news.ycombinator.com/item?id=12309777))
 
+* [JIT native code generation for TensorFlow computation graphs using Python and LLVM](http://blog.christianperone.com/2016/08/jit-native-code-generation-for-tensorflow-computation-graphs-using-python-and-llvm/) ([HN](https://news.ycombinator.com/item?id=12336125))
+
