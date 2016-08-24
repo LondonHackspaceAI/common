@@ -38,3 +38,5 @@
 
 * [JIT native code generation for TensorFlow computation graphs using Python and LLVM](http://blog.christianperone.com/2016/08/jit-native-code-generation-for-tensorflow-computation-graphs-using-python-and-llvm/) ([HN](https://news.ycombinator.com/item?id=12336125))
 
+* [Death and Suicide in Universal Artificial Intelligence](https://arxiv.org/abs/1606.00652) ([HN](https://news.ycombinator.com/item?id=12350293), [AIXI](https://en.wikipedia.org/wiki/AIXI))
+
