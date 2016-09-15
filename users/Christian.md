@@ -40,3 +40,7 @@
 
 * [Death and Suicide in Universal Artificial Intelligence](https://arxiv.org/abs/1606.00652) ([HN](https://news.ycombinator.com/item?id=12350293), [AIXI](https://en.wikipedia.org/wiki/AIXI))
 
+* [Researchers achieve speech recognition milestone](https://news.ycombinator.com/item?id=12501036)
+
+* [I did this in my machine learning class](https://news.ycombinator.com/item?id=5397797)
+
