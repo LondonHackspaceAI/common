@@ -44,3 +44,4 @@
 
 * [I did this in my machine learning class](https://news.ycombinator.com/item?id=5397797)
 
+* presentation by Pierre de Lacaze on Deep Reinforcement Learning (2016/9/12 Lisp NYC, there should be a recording)
