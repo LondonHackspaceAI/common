@@ -50,3 +50,5 @@
 
 * [Stealing Machine Learning Models via Prediction APIs](http://arxiv.org/abs/1609.02943) ([HN](https://news.ycombinator.com/item?id=12557782])
 
+* [Research Blog: Show and Tell: image captioning open sourced in TensorFlow](https://research.googleblog.com/2016/09/show-and-tell-image-captioning-open.html) ([HN](https://news.ycombinator.com/item?id=12558291))
+
