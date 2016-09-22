@@ -48,3 +48,5 @@
 
 * [The Simple + Practical Path to Machine Learning Capability: Models with Learned Parameters](https://indico.io/blog/simple-practical-path-to-machine-learning-capability-part3/) ([HN: Machine Learning Basics: Tensorflow from Scratch](https://news.ycombinator.com/item?id=12557212))
 
+* [Stealing Machine Learning Models via Prediction APIs](http://arxiv.org/abs/1609.02943) ([HN](https://news.ycombinator.com/item?id=12557782])
+
