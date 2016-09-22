@@ -45,3 +45,6 @@
 * [I did this in my machine learning class](https://news.ycombinator.com/item?id=5397797)
 
 * presentation by Pierre de Lacaze on Deep Reinforcement Learning (2016/9/12 Lisp NYC, there should be a recording)
+
+* [The Simple + Practical Path to Machine Learning Capability: Models with Learned Parameters](https://indico.io/blog/simple-practical-path-to-machine-learning-capability-part3/) ([HN: Machine Learning Basics: Tensorflow from Scratch](https://news.ycombinator.com/item?id=12557212))
+
