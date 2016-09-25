@@ -35,7 +35,7 @@
     * Bob so far has watched the first ~8 sessions from 2015, and one
       (TensorFlow) from 2016.
 
-* [Coursera: Machine Learning (Stanford University)](https://www.coursera.org/learn/machine-learning/) (Instructor: Andrew Ng (see [People](People.md), i.e. Stanford University course CS229a, correct?).
+* [Coursera: Machine Learning (Stanford University)](https://www.coursera.org/learn/machine-learning/) (Instructor: Andrew Ng (see [People](People.md)), i.e. Stanford University course CS229a, correct?).
 
   * [youtube](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
   * The Stanford lectures are more thorough than those in Coursera.
