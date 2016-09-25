@@ -37,9 +37,9 @@
 
 * [Coursera: Machine Learning (Stanford University)](https://www.coursera.org/learn/machine-learning/) (Instructor: Andrew Ng (see [People](People.md), i.e. Stanford University course CS229a, correct?).
 
-  * [youtube] (https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
+  * [youtube](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
   * The Stanford lectures are more thorough than those in Coursera.
-  * [materials page] (http://cs229.stanford.edu/materials.html): some very good notes of Ng's
+  * [materials page](http://cs229.stanford.edu/materials.html): some very good notes of Ng's
 
   Bob might be interested, looks steep.
 
@@ -67,7 +67,7 @@
 
 * [Nando de Freitas](http://www.cs.ubc.ca/~nando/) has an AI course online: [Youtube](https://youtu.be/fXgYnCAcdTc)
 
-* [Udacity Deep Learning] (https://www.udacity.com/course/deep-learning--ud730) basically an introduction to TensorFlow (see TensorFlow section in [NeuralNetworks](NeuralNetworks.md)).
+* [Udacity Deep Learning](https://www.udacity.com/course/deep-learning--ud730) basically an introduction to TensorFlow (see TensorFlow section in [NeuralNetworks](NeuralNetworks.md)).
 
 
 ### Technical
@@ -91,5 +91,5 @@
 * (James) This drops you half way through chapter 1 if you're not a mathematician:  http://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Chapter1.ipynb
 Not recommended!
 
-* Jake Vanderplas' talk at [PyCon on scikit-learn]  (https://github.com/jakevdp/sklearn_pycon2015). Github has some ipytyhon notebooks you can take whilst watching. Gives a nice intro to the package.
+* Jake Vanderplas' talk at [PyCon on scikit-learn](https://github.com/jakevdp/sklearn_pycon2015). Github has some ipytyhon notebooks you can take whilst watching. Gives a nice intro to the package.
 
