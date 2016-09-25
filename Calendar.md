@@ -54,13 +54,15 @@ meeting'). They usually start at 7 PM.
 
 * **Sunday August 7: classroom meeting**
 
-* **Sunday August 21: classroom meeting**
+* **Sunday August 21?: classroom meeting**
+
+* **Sunday August 28?: classroom meeting**
 
 * **Sunday September 11: classroom meeting**
 
-* **Sunday September 18?: classroom meeting**
+* **Sunday September 26: classroom meeting**
 
-* **Sunday October 9: classroom meeting**
+* **Sunday October 9?: classroom meeting**
 
-* **Sunday October 23: classroom meeting**
+* **Sunday October 23?: classroom meeting**
 
