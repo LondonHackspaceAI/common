@@ -88,8 +88,7 @@
 
 * (James) This seems like it could be a nice introduction to neural networks: "Implementing a Neural Network from Scratch - An Introduction" [nn-from-scratch](https://github.com/dennybritz/nn-from-scratch/blob/master/nn-from-scratch.ipynb)
 
-* (James) This drops you half way through chapter 1 if you're not a mathematician:  http://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Chapter1.ipynb
-Not recommended!
+* (James) [This](http://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Chapter1.ipynb) drops you half way through chapter 1 if you're not a mathematician. Not recommended!
 
 * Jake Vanderplas' talk at [PyCon on scikit-learn](https://github.com/jakevdp/sklearn_pycon2015). Github has some ipytyhon notebooks you can take whilst watching. Gives a nice intro to the package.
 
