@@ -52,3 +52,5 @@
 
 * [Research Blog: Show and Tell: image captioning open sourced in TensorFlow](https://research.googleblog.com/2016/09/show-and-tell-image-captioning-open.html) ([HN](https://news.ycombinator.com/item?id=12558291))
 
+* [The Limits of Machine Learning](http://nautil.us/blog/the-fundamental-limits-of-machine-learning) (as usually more interesting discussion on [HN](https://news.ycombinator.com/item?id=12577629)? ("In popular discussion, Deep Learning has unfortunately become synonymous with Machine Learning, which also, as of late, has itself become synonymous with AI."; "You could say learning is function approximation for the public."))
+
