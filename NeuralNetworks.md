@@ -4,6 +4,12 @@
 
 * [TensorFlow](http://tensorflow.org)
 
+* perhaps more of historic interest?:
+
+   * [TensorFlow: Large-Scale Machine Learning on Distributed Systems (2015, pdf)](http://download.tensorflow.org/paper/whitepaper2015.pdf) (The Tensorflow white paper, [HN](https://news.ycombinator.com/item?id=11510199))
+
+   * [Google has started a video series on machine learning and I can understand it](https://news.ycombinator.com/item?id=11509921)
+
 * [Tinker With a Neural Network in Your Browser](http://playground.tensorflow.org/) (tensorflow.org) ([HN](https://news.ycombinator.com/item?id=11483934))
 
 * [Number plate recognition with TensorFlow - Matt's ramblings](https://matthewearl.github.io/2016/05/06/cnn-anpr/) ([HN](https://news.ycombinator.com/item?id=11655359))
