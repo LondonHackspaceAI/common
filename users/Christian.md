@@ -24,7 +24,7 @@
 
 * [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/) ([HN](https://news.ycombinator.com/item?id=12135399))
 
-* [https://news.ycombinator.com/item?id=12200196](https://news.ycombinator.com/item?id=12200196) (or boring?)
+* [AI is always less impressive than is claimed](https://news.ycombinator.com/item?id=12200196) (or boring?)
 
 * [From Linear Models to Machine Learning (draft)](http://heather.cs.ucdavis.edu/draftregclass.pdf) ([HN](https://news.ycombinator.com/item?id=12237998))
 
