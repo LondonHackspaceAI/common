@@ -56,3 +56,5 @@
 
 * [Open Sourcing a Deep Learning Solution for Detecting NSFW Images (HN)](https://news.ycombinator.com/item?id=12614193); "overfitted generative models end up just memorizing the data set you trained it on"
 
+* [A subpixel convolutional neural net implementation with Tensorflow](https://github.com/Tetrachrome/subpixel) ([A subpixel super-resolution neural net implementation in Tensorflow (HN)](https://news.ycombinator.com/item?id=12619413))
+
