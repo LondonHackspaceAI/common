@@ -54,3 +54,5 @@
 
 * [The Limits of Machine Learning](http://nautil.us/blog/the-fundamental-limits-of-machine-learning) (as usually more interesting discussion on [HN](https://news.ycombinator.com/item?id=12577629)? ("In popular discussion, Deep Learning has unfortunately become synonymous with Machine Learning, which also, as of late, has itself become synonymous with AI."; "You could say learning is function approximation for the public."))
 
+* [Open Sourcing a Deep Learning Solution for Detecting NSFW Images (HN)](https://news.ycombinator.com/item?id=12614193); "overfitted generative models end up just memorizing the data set you trained it on"
+
