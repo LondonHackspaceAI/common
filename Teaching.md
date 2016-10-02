@@ -14,6 +14,14 @@
 
 * [Information Theory, Inference, and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itila/p0.html)
 
+## Books (not online?)
+
+* (Tom Mitchell "Machine Learning" (recommended by Pierre de Lacaze in
+  his LispNYC presentation, saying that he likes it since it doesn't
+  just talk about what's popular right now, and is a good intro and
+  quite thin))
+
+
 ## Online courses
 
 *  "Intro to AI - Introduction to Artificial Intelligence": [www.ai-class.com](http://www.ai-class.com/), redirects to [Udacity](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271) (Instructors: Peter Norvig, Sebastian Thrun)
