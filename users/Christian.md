@@ -58,3 +58,5 @@
 
 * [A subpixel convolutional neural net implementation with Tensorflow](https://github.com/Tetrachrome/subpixel) ([A subpixel super-resolution neural net implementation in Tensorflow (HN)](https://news.ycombinator.com/item?id=12619413))
 
+* [A parallel recommendation engine in Julia](http://juliacomputing.com/blog/2016/04/22/a-parallel-recommendation-engine-in-julia.html) ([HN](https://news.ycombinator.com/item?id=12652691) "I was just glad to see that Julia's parallel computing could out of the box give results comparable to Spark, with the ALS algorithm completely written in Julia without crazy optimized code." "For now, since the GC effectively runs only in one thread, you get good speedup with multi-threading if you avoid allocation and thus GC in the parallel code sections.")
+
