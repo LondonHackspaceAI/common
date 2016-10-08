@@ -62,3 +62,5 @@
 
 * [Graph-powered Machine Learning at Google](https://research.googleblog.com/2016/10/graph-powered-machine-learning-at-google.html) ([HN](https://news.ycombinator.com/item?id=12662749), "Manaal Faruqui's 'retrofitting'", "label propagation". "This is data capitalism.")
 
+* [Artificial Intelligence Lecture Videos (mit.edu)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/) ([HN](https://news.ycombinator.com/item?id=12667761))
+
