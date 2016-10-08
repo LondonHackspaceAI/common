@@ -64,3 +64,5 @@
 
 * [Artificial Intelligence Lecture Videos (mit.edu)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/) ([HN](https://news.ycombinator.com/item?id=12667761))
 
+* [A Natural Language Query Engine without Machine Learning](http://blog.ayoungprogrammer.com/2016/10/natural-lang-query-engine.html/) ([HN](https://news.ycombinator.com/item?id=12666491))
+
