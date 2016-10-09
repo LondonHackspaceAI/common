@@ -66,3 +66,5 @@
 
 * [A Natural Language Query Engine without Machine Learning](http://blog.ayoungprogrammer.com/2016/10/natural-lang-query-engine.html/) ([HN](https://news.ycombinator.com/item?id=12666491))
 
+* ([When her best friend died, she rebuilt him using artificial intelligence](http://www.theverge.com/a/luka-artificial-intelligence-memorial-roman-mazurenko-bot) ([HN](https://news.ycombinator.com/item?id=12657119)))
+
