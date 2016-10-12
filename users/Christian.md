@@ -68,3 +68,5 @@
 
 * ([When her best friend died, she rebuilt him using artificial intelligence](http://www.theverge.com/a/luka-artificial-intelligence-memorial-roman-mazurenko-bot) ([HN](https://news.ycombinator.com/item?id=12657119)))
 
+* [Deep Learning GPU Benchmarks](http://add-for.com/deep-learning-benchmarks/) ([HN](https://news.ycombinator.com/item?id=12693745))
+
