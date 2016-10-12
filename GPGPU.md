@@ -9,3 +9,5 @@
 
 * ([Considerations when setting up deep learning hardware](http://www.pyimagesearch.com/2016/06/13/considerations-when-setting-up-deep-learning-hardware/) ([HN](https://news.ycombinator.com/item?id=11894094)), overpriced, HN discussion more interesting.)
 
+* [Deep Learning GPU Benchmarks](http://add-for.com/deep-learning-benchmarks/) ([HN](https://news.ycombinator.com/item?id=12693745))
+
