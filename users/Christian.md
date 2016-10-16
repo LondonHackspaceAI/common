@@ -68,3 +68,7 @@
 
 * ([When her best friend died, she rebuilt him using artificial intelligence](http://www.theverge.com/a/luka-artificial-intelligence-memorial-roman-mazurenko-bot) ([HN](https://news.ycombinator.com/item?id=12657119)))
 
+* [Ask HN: How to get started with machine learning?](https://news.ycombinator.com/item?id=12713056) ("learn decision trees and more importantly enough statistics so you aren't dangerous"; "The problem with diving into neural networks is that they are slow to train (with large amounts of data anyway), and difficult to debug. This means it isn't really a great place to start."; "Gain background knowledge first, it will make your life much easier.") ([Machine Learning Curriculum](http://karlrosaen.com/ml/); [Machine Learning in a Week – Learning New Stuff](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850#.1lx2tvwnv))
+
+* [Towards deep symbolic reinforcement learning (acolyer.org)](https://blog.acolyer.org/2016/10/12/towards-deep-symbolic-reinforcement-learning/) ([HN](https://news.ycombinator.com/item?id=12713436))
+
