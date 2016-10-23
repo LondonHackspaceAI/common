@@ -72,3 +72,7 @@
 
 * [Towards deep symbolic reinforcement learning (acolyer.org)](https://blog.acolyer.org/2016/10/12/towards-deep-symbolic-reinforcement-learning/) ([HN](https://news.ycombinator.com/item?id=12713436))
 
+* [Probabilistic-Programming.org](http://probabilistic-programming.org/wiki/Home) ([HN](https://news.ycombinator.com/item?id=12773557))
+
+* [The Design and Implementation of Probabilistic Programming Languages](http://dippl.org/?) ([HN](https://news.ycombinator.com/item?id=12774448))
+
