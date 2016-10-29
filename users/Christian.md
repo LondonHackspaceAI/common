@@ -1,4 +1,4 @@
-# Christian's user page
+'s user page
 
 ## Random links
 
@@ -75,4 +75,6 @@
 * [Probabilistic-Programming.org](http://probabilistic-programming.org/wiki/Home) ([HN](https://news.ycombinator.com/item?id=12773557))
 
 * [The Design and Implementation of Probabilistic Programming Languages](http://dippl.org/?) ([HN](https://news.ycombinator.com/item?id=12774448))
+
+* [Universal adversarial perturbations](https://arxiv.org/abs/1610.08401) ([HN](https://news.ycombinator.com/item?id=12824380))
 
