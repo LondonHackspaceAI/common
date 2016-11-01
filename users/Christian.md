@@ -78,3 +78,5 @@
 
 * [Universal adversarial perturbations](https://arxiv.org/abs/1610.08401) ([HN](https://news.ycombinator.com/item?id=12824380))
 
+* [Fast Style Transfer in TensorFlow](https://github.com/lengstrom/fast-style-transfer/) ([HN](https://news.ycombinator.com/item?id=12838152))
+
