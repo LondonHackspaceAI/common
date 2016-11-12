@@ -82,3 +82,5 @@
 
 * [Neural Symbolic Machines: Learning Semantic Parsers on Freebase with Weak Supervision](https://arxiv.org/abs/1611.00020) ([HN](https://news.ycombinator.com/item?id=12854209))
 
+* [Why is machine learning 'hard'?](http://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html) ([HN](https://news.ycombinator.com/item?id=12936891))
+
