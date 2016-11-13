@@ -84,3 +84,5 @@
 
 * [Why is machine learning 'hard'?](http://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html) ([HN](https://news.ycombinator.com/item?id=12936891))
 
+* [MAS.S62 Interactive Machine Learning (MIT Media Lab)](http://iml.media.mit.edu/) ([HN](https://news.ycombinator.com/item?id=12943067))
+
