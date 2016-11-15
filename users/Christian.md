@@ -86,3 +86,5 @@
 
 * [MAS.S62 Interactive Machine Learning (MIT Media Lab)](http://iml.media.mit.edu/) ([HN](https://news.ycombinator.com/item?id=12943067))
 
+* [Minimal and clean examples of machine learning algorithms](https://github.com/rushter/MLAlgorithms) ([HN](https://news.ycombinator.com/item?id=12956687))
+
