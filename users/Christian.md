@@ -90,3 +90,5 @@
 
 * [CS294: Program Synthesis for Everyone (berkeley.edu)](https://people.eecs.berkeley.edu/~bodik/cs294fa12) ([HN](https://news.ycombinator.com/item?id=13001068))
 
+* [Attacking discrimination with smarter machine learning](http://research.google.com/bigpicture/attacking-discrimination-in-ml/) ([HN](https://news.ycombinator.com/item?id=13004790))
+
