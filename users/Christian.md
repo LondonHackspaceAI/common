@@ -88,3 +88,5 @@
 
 * [Minimal and clean examples of machine learning algorithms](https://github.com/rushter/MLAlgorithms) ([HN](https://news.ycombinator.com/item?id=12956687))
 
+* [CS294: Program Synthesis for Everyone (berkeley.edu)](https://people.eecs.berkeley.edu/~bodik/cs294fa12) ([HN](https://news.ycombinator.com/item?id=13001068))
+
