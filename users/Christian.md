@@ -98,3 +98,5 @@
 
 * [DeepMind’s Mustafa Suleyman says general AI is still a long way off](https://techcrunch.com/2016/12/05/deepmind-ceo-mustafa-suleyman-says-general-ai-is-still-a-long-way-off/) ([HN](https://news.ycombinator.com/item?id=13104970), *"DeepMind sounds more and more like IBM Watson by the day."*)
 
+* [OpenAI Universe](https://universe.openai.com/) ([HN](https://news.ycombinator.com/item?id=13103742))
+
