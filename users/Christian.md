@@ -104,3 +104,5 @@
 
 * [Open Source Deep Learning Curriculum](http://www.deeplearningweekly.com/pages/open_source_deep_learning_curriculum) ([HN](https://news.ycombinator.com/item?id=13150800))
 
+* [The AI Programmer's Bookshelf: A list of useful books for game AI programming](http://alumni.media.mit.edu/~jorkin/aibooks.html) ([HN](https://news.ycombinator.com/item?id=13174542): *"This is about game AIs, which are definitely interesting. But for the most part they overlap very little with what most people think of as AI."*, vs. maybe that's changing now)
+
