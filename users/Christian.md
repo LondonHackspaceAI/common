@@ -100,3 +100,7 @@
 
 * [OpenAI Universe](https://universe.openai.com/) ([HN](https://news.ycombinator.com/item?id=13103742))
 
+* [Neurogenesis Deep Learning](https://arxiv.org/abs/1612.03770) ([HN](https://news.ycombinator.com/item?id=13171883))
+
+* [Open Source Deep Learning Curriculum](http://www.deeplearningweekly.com/pages/open_source_deep_learning_curriculum) ([HN](https://news.ycombinator.com/item?id=13150800))
+
