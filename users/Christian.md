@@ -108,3 +108,5 @@
 
 * [Practical Deep Learning For Coders, Part 1](http://course.fast.ai/), *"taught by Jeremy Howard (Kaggle's #1 competitor 2 years running, and founder of Enlitic)"* ([HN](https://news.ycombinator.com/item?id=13224588))
 
+* [Superintelligence: The Idea That Eats Smart People](http://idlewords.com/talks/superintelligence.htm) ([HN](https://news.ycombinator.com/item?id=13240811))
+
