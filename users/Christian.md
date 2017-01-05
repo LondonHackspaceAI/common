@@ -112,3 +112,5 @@
 
 * [Operational calculus on programming spaces and generalized tensor networks](https://arxiv.org/abs/1610.07690) <small>*"we develop operational calculus on programming spaces that generalizes existing approaches to automatic differentiation of computer programs and provides a rigorous framework for program analysis through calculus"*</small> ([HN](https://news.ycombinator.com/item?id=13280818))
 
+* [Google reveals secret test of AI bot to beat top Go players](www.nature.com/news/google-reveals-secret-test-of-ai-bot-to-beat-top-go-players-1.21253) ([HN](https://news.ycombinator.com/item?id=13320013), also see [HN](https://news.ycombinator.com/item?id=13312219))
+
