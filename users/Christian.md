@@ -114,3 +114,5 @@
 
 * [Google reveals secret test of AI bot to beat top Go players](www.nature.com/news/google-reveals-secret-test-of-ai-bot-to-beat-top-go-players-1.21253) ([HN](https://news.ycombinator.com/item?id=13320013), also see [HN](https://news.ycombinator.com/item?id=13312219))
 
+* ([Bitpacking and Compression of Sparse Datasets](http://moderndescartes.com/essays/bitpacking_compression) (*"I'm working on a neural network to play Go."*) ([HN](https://news.ycombinator.com/item?id=13334490)))
+
