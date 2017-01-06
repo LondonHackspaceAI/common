@@ -116,3 +116,5 @@
 
 * ([Bitpacking and Compression of Sparse Datasets](http://moderndescartes.com/essays/bitpacking_compression) (*"I'm working on a neural network to play Go."*) ([HN](https://news.ycombinator.com/item?id=13334490)))
 
+* [Concrete AI tasks for forecasting](http://aiimpacts.org/concrete-ai-tasks-for-forecasting/) ([HN](https://news.ycombinator.com/item?id=13334145))
+
