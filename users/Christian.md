@@ -118,3 +118,5 @@
 
 * [Concrete AI tasks for forecasting](http://aiimpacts.org/concrete-ai-tasks-for-forecasting/) ([HN](https://news.ycombinator.com/item?id=13334145))
 
+* [How to trick a neural network into thinking a panda is a vulture](https://codewords.recurse.com/issues/five/why-do-neural-networks-think-a-panda-is-a-vulture)
+
