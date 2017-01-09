@@ -120,3 +120,6 @@
 
 * [How to trick a neural network into thinking a panda is a vulture](https://codewords.recurse.com/issues/five/why-do-neural-networks-think-a-panda-is-a-vulture)
 
+* [Stanford Unsupervised Deep Learning Tutorial (stanford.edu) (HN)](https://news.ycombinator.com/item?id=13353941), *"It's a very old tutorial, there are tons of better ones, in every aspect, today"*, but discussion of alternatives.
+
+
