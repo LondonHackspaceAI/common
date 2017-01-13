@@ -124,3 +124,5 @@
 
 * [XLA: The TensorFlow compiler framework](https://www.tensorflow.org/versions/master/resources/xla_prerelease) ([HN](https://news.ycombinator.com/item?id=13354316))
 
+* (on "Simplified Gating in Long Short-Term Memory (LSTM) Recurrent Neural Networks" [HN](https://news.ycombinator.com/item?id=13389213))
+
