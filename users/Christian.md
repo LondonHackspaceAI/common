@@ -126,3 +126,5 @@
 
 * (on "Simplified Gating in Long Short-Term Memory (LSTM) Recurrent Neural Networks" [HN](https://news.ycombinator.com/item?id=13389213))
 
+* [Learn TensorFlow and deep learning, without a Ph.D.](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd) ([HN](https://news.ycombinator.com/item?id=13464496), *"I've found the math primer (two sections: "Linear Algebra" and "Probability and Information Theory") in this free book to be excellent so far: [www.deeplearningbook.org](http://www.deeplearningbook.org/)"*)
+
