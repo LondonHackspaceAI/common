@@ -130,3 +130,5 @@
 
 * [AI/ML Reads](http://aireads.top/) ([HN](https://news.ycombinator.com/item?id=13480925))
 
+* [Deep learning algorithm does as well as dermatologists in identifying skin cancer](http://news.stanford.edu/2017/01/25/artificial-intelligence-used-identify-skin-cancer/) ([HN](https://news.ycombinator.com/item?id=13484372))
+
