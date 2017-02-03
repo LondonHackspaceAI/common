@@ -134,3 +134,5 @@
 
 * [NanoNets : How to use Deep Learning when you have Limited Data](https://medium.com/nanonets/nanonets-how-to-use-deep-learning-when-you-have-limited-data-f68c0b512cab#.sv478elrs), <small>*"Transfer Learning to the Rescue!"*</small> ([HN](https://news.ycombinator.com/item?id=13555286))
 
+* [Probabilistic Models of Cognition](https://probmods.org/) ([HN](https://news.ycombinator.com/item?id=13551271))
+
