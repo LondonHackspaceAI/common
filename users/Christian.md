@@ -132,3 +132,5 @@
 
 * [Deep learning algorithm does as well as dermatologists in identifying skin cancer](http://news.stanford.edu/2017/01/25/artificial-intelligence-used-identify-skin-cancer/) ([HN](https://news.ycombinator.com/item?id=13484372))
 
+* [NanoNets : How to use Deep Learning when you have Limited Data](https://medium.com/nanonets/nanonets-how-to-use-deep-learning-when-you-have-limited-data-f68c0b512cab#.sv478elrs), <small>*"Transfer Learning to the Rescue!"*</small> ([HN](https://news.ycombinator.com/item?id=13555286))
+
