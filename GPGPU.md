@@ -2,6 +2,24 @@
 
 * [Ask HN: Best place to learn GPU programing?](https://news.ycombinator.com/item?id=11999892)
 
+* [An Even Easier Introduction to CUDA](https://devblogs.nvidia.com/parallelforall/even-easier-introduction-cuda/) ([HN](https://news.ycombinator.com/item?id=13565763))
+
+## Software
+
+* ([ClojureCL - a Clojure library for parallel computations with OpenCL
+  2.0](http://clojurecl.uncomplicate.org/)?, but doesn't say what it
+  actually does, and
+  [Neanderthal](http://neanderthal.uncomplicate.org/) claims speed "in
+  Clojure" but then the
+  [project](https://github.com/uncomplicate/neanderthal) says it is
+  "based on" ATLAS. WTF?)
+
+* [XLA](https://www.tensorflow.org/versions/master/experimental/xla/)
+  *"a domain-specific compiler for linear algebra that optimizes
+  TensorFlow computations"* (according to
+  [HN](https://news.ycombinator.com/item?id=13568431) a jit (that
+  compiles directly to CUDA assemblies?))
+
 ## Hardware
 
 * [NVIDIA GeForce GTX 1080 .. Performance Faster Than Titan X and 980 SLI](http://wccftech.com/nvidia-geforce-gtx-1080-launch/), [HN](https://news.ycombinator.com/item?id=11648110); also:
