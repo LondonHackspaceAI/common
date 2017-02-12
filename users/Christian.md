@@ -136,3 +136,5 @@
 
 * [Probabilistic Models of Cognition](https://probmods.org/) ([HN](https://news.ycombinator.com/item?id=13551271))
 
+* [Theano (slides)](http://redcatlabs.com/2015-06-19_Presentation-PyConSG/#/) (Martin Andrews, @redcatlabs, Montreal)
+
