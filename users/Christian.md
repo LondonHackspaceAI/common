@@ -142,3 +142,5 @@
 
 * [AI learns to write its own code by stealing from other programs](https://www.newscientist.com/article/mg23331144-500-ai-learns-to-write-its-own-code-by-stealing-from-other-programs/) ([HN](https://news.ycombinator.com/item?id=13711910), <small>*"One way to check for overfitting is to compare samples to their nearest neighbors in the training set."*; *"those jobs will not exist in 10 years"*</small>)
 
+* [Bare bones Python implementations of various Machine Learning models and algorithms](https://github.com/eriklindernoren/ML-From-Scratch) ([HN](https://news.ycombinator.com/item?id=13732288))
+
