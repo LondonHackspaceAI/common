@@ -144,3 +144,5 @@
 
 * [Bare bones Python implementations of various Machine Learning models and algorithms](https://github.com/eriklindernoren/ML-From-Scratch) ([HN](https://news.ycombinator.com/item?id=13732288))
 
+* [Image Completion with Deep Learning in TensorFlow](https://github.com/bamos/dcgan-completion.tensorflow) ([HN](https://news.ycombinator.com/item?id=13730451))
+
