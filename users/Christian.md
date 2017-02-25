@@ -140,3 +140,5 @@
 
 * [Learning to protect communications with adversarial neural cryptography](https://blog.acolyer.org/2017/02/10/learning-to-protect-communications-with-adversarial-neural-cryptography/) <small>(*"In researching this work, I also found a very nice write-up with an implementation in Theano, and another implementation in TensorFlow, which makes for quite a nice comparison of the two."*)</small>
 
+* [AI learns to write its own code by stealing from other programs](https://www.newscientist.com/article/mg23331144-500-ai-learns-to-write-its-own-code-by-stealing-from-other-programs/) ([HN](https://news.ycombinator.com/item?id=13711910), <small>*"One way to check for overfitting is to compare samples to their nearest neighbors in the training set."*; *"those jobs will not exist in 10 years"*</small>)
+
