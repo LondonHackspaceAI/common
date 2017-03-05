@@ -146,3 +146,5 @@
 
 * [Image Completion with Deep Learning in TensorFlow](https://github.com/bamos/dcgan-completion.tensorflow) ([HN](https://news.ycombinator.com/item?id=13730451))
 
+* [Uncertainty in Deep Learning (PhD Thesis)](http://mlg.eng.cam.ac.uk/yarin/blog_2248.html) ([HN](https://news.ycombinator.com/item?id=13795867))
+
