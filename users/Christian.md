@@ -148,3 +148,5 @@
 
 * [Uncertainty in Deep Learning (PhD Thesis)](http://mlg.eng.cam.ac.uk/yarin/blog_2248.html) ([HN](https://news.ycombinator.com/item?id=13795867))
 
+* [Enabling Continual Learning in Neural Networks](https://deepmind.com/blog/enabling-continual-learning-in-neural-networks/) ([HN](https://news.ycombinator.com/item?id=13870147))
+
