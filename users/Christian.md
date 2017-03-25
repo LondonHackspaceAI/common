@@ -150,3 +150,5 @@
 
 * [Enabling Continual Learning in Neural Networks](https://deepmind.com/blog/enabling-continual-learning-in-neural-networks/) ([HN](https://news.ycombinator.com/item?id=13870147))
 
+* [Failures of Deep Learning](https://arxiv.org/abs/1703.07950) ([HN](https://news.ycombinator.com/item?id=13950423))
+
