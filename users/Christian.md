@@ -154,3 +154,5 @@
 
 * [Deep Photo Style Transfer](https://github.com/luanfujun/deep-photo-styletransfer) ([HN](https://news.ycombinator.com/item?id=13958366))
 
+* [Practical_RL: A course in reinforcement learning in the wild](https://github.com/yandexdataschool/Practical_RL) ([HN](https://news.ycombinator.com/item?id=14035602))
+
