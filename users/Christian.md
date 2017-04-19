@@ -156,3 +156,9 @@
 
 * [Practical_RL: A course in reinforcement learning in the wild](https://github.com/yandexdataschool/Practical_RL) ([HN](https://news.ycombinator.com/item?id=14035602))
 
+* [Taming Recurrent Neural Networks for Better Summarization](http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html) ([HN](https://news.ycombinator.com/item?id=14142708))
+
+* [How we commoditized GPUs for Kubernetes](https://medium.com/intuitionmachine/how-we-commoditized-gpus-for-kubernetes-7131f3e9231f) ([HN](https://news.ycombinator.com/item?id=14137961))
+
+* [Caffe2: Open Source Cross-Platform Machine Learning Tools (caffe2.ai)](http://caffe2.ai/blog/2017/04/18/caffe2-open-source-announcement.html) ([HN](https://news.ycombinator.com/item?id=14141556))
+
