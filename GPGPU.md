@@ -23,6 +23,9 @@
 * [Parallel Thread Execution (PTX)](https://en.wikipedia.org/wiki/Parallel_Thread_Execution), 
   [NVIDIA's CUDA/OpenCL PTX Back-End In LLVM 3.2](http://www.phoronix.com/scan.php?page=news_item&px=MTI1NDU) (LLVM had a "PTX" in the past, and now a "NVPTX" backend that was open sourced by Nvidia themselves)
 
+* [Compiling CUDA with clang](http://llvm.org/docs/CompileCudaWithLLVM.html) (some discussion on [HN](https://news.ycombinator.com/item?id=14309756))
+
+
 ## Hardware
 
 * [NVIDIA GeForce GTX 1080 .. Performance Faster Than Titan X and 980 SLI](http://wccftech.com/nvidia-geforce-gtx-1080-launch/), [HN](https://news.ycombinator.com/item?id=11648110); also:
@@ -33,4 +36,6 @@
 * [Deep Learning GPU Benchmarks](http://add-for.com/deep-learning-benchmarks/) ([HN](https://news.ycombinator.com/item?id=12693745))
 
 * [Using GPUs to Speed Through the 1.2B Record Taxi Dataset (mapd.com)](https://www.mapd.com/blog/2016/10/13/speeding-through-nyc-the-billion-row-nyc-taxi-dataset/) ([HN](https://news.ycombinator.com/item?id=12714448), "For Graphistry's GPU platform, we suggest our users to go with server-grade GPUs because they get (a) more memory and (b) great multitenancy. So using MapD as a personal system is an expensive use of resources, but when a system is architected and billed as an elastic, multitenant system, total cost of ownership for a team is less."; "If you really have a tight budget and need to use gamer cards as workstation cards (...), find yourself some aftermarket coolers, preferably liquid cooling.")
+
+* [Volta: Advanced Data Center GPU](https://devblogs.nvidia.com/parallelforall/inside-volta/) ([HN](https://news.ycombinator.com/item?id=14309756))
 
