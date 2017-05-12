@@ -162,3 +162,5 @@
 
 * [Caffe2: Open Source Cross-Platform Machine Learning Tools (caffe2.ai)](http://caffe2.ai/blog/2017/04/18/caffe2-open-source-announcement.html) ([HN](https://news.ycombinator.com/item?id=14141556))
 
+* [Drone Uses AI and 11,500 Crashes to Learn How to Fly (ieee.org)](http://spectrum.ieee.org/automaton/robotics/drones/drone-uses-ai-and-11500-crashes-to-learn-how-to-fly) (“Learning to Fly by Crashing,” a paper from CMU roboticists Dhiraj Gandhi, Lerrel Pinto, and Abhinav Gupta) ([HN](https://news.ycombinator.com/item?id=14316917); <small>"*deep learning is probably overkill.. The advantage of deep learning is that your agent hopefully learns to generalize*", vs. "*Deep learning is nice, because it basically removes the need to manually choose features*". "*splitting into the part where the drone was doing fine and the part where the drone is crashing was still done manually?*"</small>)
+
