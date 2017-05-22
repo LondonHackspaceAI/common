@@ -25,6 +25,8 @@
 
 * [Compiling CUDA with clang](http://llvm.org/docs/CompileCudaWithLLVM.html) (some discussion on [HN](https://news.ycombinator.com/item?id=14309756))
 
+* [CUDA and cuBLAS GPU matrices in Clojure](http://dragan.rocks/articles/17/CUDA-and-cuBLAS-GPU-matrices-in-Clojure) ([HN](https://news.ycombinator.com/item?id=14386291))
+
 
 ## Hardware
 
