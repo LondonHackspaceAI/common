@@ -8,6 +8,9 @@
 
 * What is this?: [Adaptive Neural Compilation](http://www.robots.ox.ac.uk/~rudy/publications/2016-05-21-anc.html) ([HN](https://news.ycombinator.com/item?id=11784959))
 
+## Software
+
+* [Weka](https://en.wikipedia.org/wiki/Weka_%28machine_learning%29)
 
 ## Hardware
 
