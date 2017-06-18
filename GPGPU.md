@@ -4,6 +4,9 @@
 
 * [An Even Easier Introduction to CUDA](https://devblogs.nvidia.com/parallelforall/even-easier-introduction-cuda/) ([HN](https://news.ycombinator.com/item?id=13565763))
 
+* [Optimizing CUDA: Warps, Threads and Blocks](https://malagastockholm.wordpress.com/2013/01/13/optimizing-cuda-warps-threads-and-blocks/)
+
+
 ## Software
 
 * ([ClojureCL - a Clojure library for parallel computations with OpenCL
