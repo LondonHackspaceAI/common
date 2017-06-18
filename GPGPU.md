@@ -9,14 +9,6 @@
 
 ## Software
 
-* ([ClojureCL - a Clojure library for parallel computations with OpenCL
-  2.0](http://clojurecl.uncomplicate.org/)?, but doesn't say what it
-  actually does, and
-  [Neanderthal](http://neanderthal.uncomplicate.org/) claims speed "in
-  Clojure" but then the
-  [project](https://github.com/uncomplicate/neanderthal) says it is
-  "based on" ATLAS. WTF?)
-
 * [XLA](https://www.tensorflow.org/versions/master/experimental/xla/)
   *"a domain-specific compiler for linear algebra that optimizes
   TensorFlow computations"* (according to
@@ -27,8 +19,6 @@
   [NVIDIA's CUDA/OpenCL PTX Back-End In LLVM 3.2](http://www.phoronix.com/scan.php?page=news_item&px=MTI1NDU) (LLVM had a "PTX" in the past, and now a "NVPTX" backend that was open sourced by Nvidia themselves)
 
 * [Compiling CUDA with clang](http://llvm.org/docs/CompileCudaWithLLVM.html) (some discussion on [HN](https://news.ycombinator.com/item?id=14309756))
-
-* [CUDA and cuBLAS GPU matrices in Clojure](http://dragan.rocks/articles/17/CUDA-and-cuBLAS-GPU-matrices-in-Clojure) ([HN](https://news.ycombinator.com/item?id=14386291))
 
 * On Haskell:
 
@@ -58,10 +48,9 @@
 * On Clojure:
 
     * [ClojureCL (uncomplicate.org)](http://clojurecl.uncomplicate.org/) *"supports GPUs, CPUs, and other accelerators. Sane interface and functions that fit into functional style while still respecting the reality of number crunching with OpenCL."*
-        * [CUDA and cuBLAS GPU matrices in Clojure](http://dragan.rocks/articles/17/CUDA-and-cuBLAS-GPU-matrices-in-Clojure): *"I've added a new engine to Neanderthal that gives us the full speed of Nvidia's CUDA based cuBLAS library."*; *"\[...\] One major thing was still left untapped though: Nvidia's proprietary CUDA-based libraries that require Nvidia's proprietary and closed source CUDA technology that is also tied to the Nvidia hardware."* *"\[With OpenCL-based Neanderthal engine got\] 60% utilization, which is quite impressive for a one-man team working part-time! \[...\] with the CUDA-based engine \[...\] almost at the specification maximum of the hardware."*; *"I expect to integrate at least cuSPARSE and cuSOLVER into Neanderthal, and I'm eyeing cuDNN as an engine for a possible deep learning library."*
+        * [CUDA and cuBLAS GPU matrices in Clojure](http://dragan.rocks/articles/17/CUDA-and-cuBLAS-GPU-matrices-in-Clojure) ([HN](https://news.ycombinator.com/item?id=14386291)): *"I've added a new engine to Neanderthal that gives us the full speed of Nvidia's CUDA based cuBLAS library."*; *"\[...\] One major thing was still left untapped though: Nvidia's proprietary CUDA-based libraries that require Nvidia's proprietary and closed source CUDA technology that is also tied to the Nvidia hardware."* *"\[With OpenCL-based Neanderthal engine got\] 60% utilization, which is quite impressive for a one-man team working part-time! \[...\] with the CUDA-based engine \[...\] almost at the specification maximum of the hardware."*; *"I expect to integrate at least cuSPARSE and cuSOLVER into Neanderthal, and I'm eyeing cuDNN as an engine for a possible deep learning library."*
     * [ClojureCUDA (uncomplicate.org)](http://clojurecuda.uncomplicate.org/) (same design and text templates as ClojureCL, same domain, same author)
     * [Neanderthal (uncomplicate.org)](http://neanderthal.uncomplicate.org/) (dito)
-        * [CUDA and CuBLAS GPU Matrices in Clojure (dragan.rocks) (HN)](https://news.ycombinator.com/item?id=14386291)
     * [Bayadera](https://github.com/uncomplicate/bayadera), A Clojure Library for Bayesian Data Analysis and Machine Learning on the GPU. (Same author, Dragan Djuric.)
         * [Clojure is Not Afraid of the GPU - Dragan Djuric (youtube.com) (Reddit)](https://www.reddit.com/r/Clojure/comments/5dirtc/clojure_is_not_afraid_of_the_gpu_dragan_djuric/) (Jan 2017) *"Currently \[Bayadera\] requires an OpenCL 2.0 device, which practically means a recent (2-3 years) discrete AMD GPU."*
 
