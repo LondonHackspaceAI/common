@@ -27,6 +27,31 @@
 
 * [CUDA and cuBLAS GPU matrices in Clojure](http://dragan.rocks/articles/17/CUDA-and-cuBLAS-GPU-matrices-in-Clojure) ([HN](https://news.ycombinator.com/item?id=14386291))
 
+* On Haskell:
+
+    * [Data.Array.Accelerate](https://hackage.haskell.org/package/accelerate) defines an embedded array language for computations for high-performance computing in Haskell. Computations on multi-dimensional, regular arrays are expressed in the form of parameterised collective operations, such as maps, reductions, and permutations.
+        * modules:
+            * accelerate-llvm-native: Backend supporting parallel execution on multicore CPUs. 
+            * accelerate-llvm-ptx: Backend supporting parallel execution on CUDA-capable NVIDIA GPUs. Requires a GPU with compute capability 2.0 or greater. 
+            * accelerate-cuda: Backend targeting CUDA-enabled NVIDIA GPUs. Requires a GPU with compute compatibility 1.2 or greater (deprecated)
+            * accelerate-io: Fast conversions between Accelerate arrays and other array formats (including vector and repa).
+            * accelerate-fft: Discrete Fourier transforms, with FFI bindings to optimised implementations. 
+        * [GPGPU Programming in Haskell with Accelerate (speakerdeck.com)](https://speakerdeck.com/tmcdonell/gpgpu-programming-in-haskell-with-accelerate) (2013)
+        * [Github](https://github.com/AccelerateHS/accelerate)
+    * [GPU (wiki.haskell.org)](https://wiki.haskell.org/GPU)
+    
+* On OCaml:
+
+    * [spoc (stream processing with OCaml)](http://mathiasbourgoin.github.io/SPOC/)
+    * random links:
+        * [High-Performance GPGPU Programming with OCaml (hgpu.org)](http://hgpu.org/?p=10694) (2013)
+        * [GPGPU Composition with OCaml](http://dl.acm.org/citation.cfm?id=2627379) (2014)
+        * [Ocaml for scientific compution: why not? (Reddit)](https://www.reddit.com/r/ocaml/comments/3cwn7i/ocaml_for_scientific_compution_why_not/) (2016)
+
+* On F#:
+
+    * [Use F# for GPU Programming (fsharp.org)](http://fsharp.org/use/gpu/)
+    
 
 ## Hardware
 
