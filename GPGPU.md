@@ -62,6 +62,13 @@
     * [Bayadera](https://github.com/uncomplicate/bayadera), A Clojure Library for Bayesian Data Analysis and Machine Learning on the GPU. (Same author, Dragan Djuric.)
         * [Clojure is Not Afraid of the GPU - Dragan Djuric (youtube.com) (Reddit)](https://www.reddit.com/r/Clojure/comments/5dirtc/clojure_is_not_afraid_of_the_gpu_dragan_djuric/) (Jan 2017) *"Currently \[Bayadera\] requires an OpenCL 2.0 device, which practically means a recent (2-3 years) discrete AMD GPU."*
 
+* On Fortran:
+
+    * [CUDA FORTRAN](https://developer.nvidia.com/cuda-fortran): *"NVIDIA worked with The Portland Group (PGI) to develop a CUDA Fortran Compiler that provides Fortran language support for NVIDIA’s CUDA-enabled GPUs. Fortran developers with data parallel problems will be able to use this compiler to harness the massive parallel computing capability of NVIDIA GPUs to create high performance applications for scientific computing."*
+    * [GPGPU: Fortran (gpgpu.org)](http://gpgpu.org/tag/fortran)
+        * [Performance Portable Parallel Programming – Target CUDA and OpenMP in a Unified Codebase](http://gpgpu.org/2014/08/14/performance-portable-parallel-programming-target-cuda-and-openmp-in-a-unified-codebase)
+            * [Hybrid-Fortran (Github)](https://github.com/muellermichel/Hybrid-Fortran)
+
 
 ## Hardware
 
