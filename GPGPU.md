@@ -66,6 +66,14 @@
             * There was a talk [here](https://skillsmatter.com/meetups/8776-london-julia-users-group) and was recorded, should ask Skillsmatter where the video is.
     * [Options for GPU computing in Julia](https://stackoverflow.com/questions/38224609/options-for-gpu-computing-in-julia) (2016)
 
+* On Erlang:
+
+    * [GPGPU Programming Erlang (erlang-factory.com)](http://www.erlang-factory.com/upload/presentations/356/KevinSmith.pdf)
+    * [Machine Learning in Erlang and CUDA](http://www.vas.io/blog/2013/03/23/machine-learning-in-erlang-and-cuda/) (2013)
+        * *"I decided to create another project and so - the NumEr was born"*
+    * [cl](https://github.com/tonyrog/cl) (OpenCL binding)
+    * [NumEr](https://github.com/vascokk/NumEr) - Numeric Erlang - vector and matrix operations with CUDA. Heavily inspired by [Pteracuda](https://github.com/kevsmith/pteracuda) (= Framework for using CUDA from Erlang)
+
 * On Haskell:
 
     * [Data.Array.Accelerate](https://hackage.haskell.org/package/accelerate) defines an embedded array language for computations for high-performance computing in Haskell. Computations on multi-dimensional, regular arrays are expressed in the form of parameterised collective operations, such as maps, reductions, and permutations.
