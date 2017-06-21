@@ -36,20 +36,6 @@
     * [An introduction to CUDA using Python (PDF)](http://www.tsc.uc3m.es/~miguel/MLG/adjuntos/slidesCUDA.pdf) (haven't looked at it)
     * [Py-Videocore: Python Library for GPGPU on Raspberry Pi (HN)](https://news.ycombinator.com/item?id=10797603) (*"Although VC4 is capable enough to run simple GLSL shaders, it is not possible to compile a generic C (or OpenCL) code efficiently."*)
 
-* On Rust:
-
-    * [RustGPU](https://github.com/eholk/RustGPU), by Eric Holk who also created 
-      [Harlan](https://github.com/eholk/harlan).
-      [Compiling Rust for GPUs (Eric Holk, 2012)](http://blog.theincredibleholk.org/blog/2012/12/05/compiling-rust-for-gpus/) ([HN](https://news.ycombinator.com/item?id=6933912)).
-    * [ocl](https://github.com/cogciprocate/ocl)
-    * [GPU Programming using Rust? (Reddit)](https://www.reddit.com/r/rust/comments/4dnq0h/gpu_programming_using_rust/)
-        * [Rust wrapper for ArrayFire](https://github.com/arrayfire/arrayfire-rust) 
-            * [ArrayFire: a general purpose GPU library](https://github.com/arrayfire/arrayfire)
-        * [rust-opencl - OpenCL bindings for Rust](https://github.com/luqmana/rust-opencl)
-        * [Vulkano - Rust wrapper around the Vulkan graphics API](https://github.com/tomaka/vulkano)
-        * [SPIR - The first open standard intermediate language for parallel compute and graphics](https://www.khronos.org/spir) (*"initially developed for use by OpenCL and SPIR versions 1.2 and 2.0 were based on LLVM. SPIR has now evolved into a true cross-API standard that is fully defined by Khronos with native support for shader and kernel features – called SPIR-V."*, *"For developers, using SPIR-V means that kernel source code no longer has to be directly exposed, kernel load times can be accelerated and developers can choose the use of a common language front-end, improving kernel reliability and portability across multiple hardware implementations."*)
-    * ([Single-source GPU support (rust-lang.org)](https://internals.rust-lang.org/t/single-source-gpu-support/898) ideas (deprecated))
-
 * On Julia:
 
     * [JuliaGPU](https://github.com/JuliaGPU) Github organization:
@@ -75,6 +61,20 @@
         * *"I decided to create another project and so - the NumEr was born"*
     * [cl](https://github.com/tonyrog/cl) (OpenCL binding)
     * [NumEr](https://github.com/vascokk/NumEr) - Numeric Erlang - vector and matrix operations with CUDA. Heavily inspired by [Pteracuda](https://github.com/kevsmith/pteracuda) (= Framework for using CUDA from Erlang)
+
+* On Rust:
+
+    * [RustGPU](https://github.com/eholk/RustGPU), by Eric Holk who also created 
+      [Harlan](https://github.com/eholk/harlan).
+      [Compiling Rust for GPUs (Eric Holk, 2012)](http://blog.theincredibleholk.org/blog/2012/12/05/compiling-rust-for-gpus/) ([HN](https://news.ycombinator.com/item?id=6933912)).
+    * [ocl](https://github.com/cogciprocate/ocl)
+    * [GPU Programming using Rust? (Reddit)](https://www.reddit.com/r/rust/comments/4dnq0h/gpu_programming_using_rust/)
+        * [Rust wrapper for ArrayFire](https://github.com/arrayfire/arrayfire-rust) 
+            * [ArrayFire: a general purpose GPU library](https://github.com/arrayfire/arrayfire)
+        * [rust-opencl - OpenCL bindings for Rust](https://github.com/luqmana/rust-opencl)
+        * [Vulkano - Rust wrapper around the Vulkan graphics API](https://github.com/tomaka/vulkano)
+        * [SPIR - The first open standard intermediate language for parallel compute and graphics](https://www.khronos.org/spir) (*"initially developed for use by OpenCL and SPIR versions 1.2 and 2.0 were based on LLVM. SPIR has now evolved into a true cross-API standard that is fully defined by Khronos with native support for shader and kernel features – called SPIR-V."*, *"For developers, using SPIR-V means that kernel source code no longer has to be directly exposed, kernel load times can be accelerated and developers can choose the use of a common language front-end, improving kernel reliability and portability across multiple hardware implementations."*)
+    * ([Single-source GPU support (rust-lang.org)](https://internals.rust-lang.org/t/single-source-gpu-support/898) ideas (deprecated))
 
 * On Haskell:
 
