@@ -51,6 +51,8 @@
 * On Julia:
 
     * [JuliaGPU](https://github.com/JuliaGPU) Github organization:
+        * [CUDAnative.jl](https://github.com/JuliaGPU/CUDAnative.jl)
+            * There was a talk [here](https://skillsmatter.com/meetups/8776-london-julia-users-group) and was recorded, should ask Skillsmatter where the video is.
         * OpenCL.jl (OpenCL Julia bindings)
         * CUDArt.jl (Julia wrapper for CUDA runtime API)
         * CUDAdrv.jl (A Julia wrapper for the CUDA driver API)
@@ -62,8 +64,6 @@
         * HSA.jl (Julia Bindings for the HSA Runtime) -- ?
         * Vulkan.jl
         * ArrayFire.jl 
-        * [CUDAnative.jl](https://github.com/JuliaGPU/CUDAnative.jl)
-            * There was a talk [here](https://skillsmatter.com/meetups/8776-london-julia-users-group) and was recorded, should ask Skillsmatter where the video is.
     * [Options for GPU computing in Julia](https://stackoverflow.com/questions/38224609/options-for-gpu-computing-in-julia) (2016)
 
 * On Erlang:
@@ -90,6 +90,8 @@
 * On OCaml:
 
     * [spoc (stream processing with OCaml)](http://mathiasbourgoin.github.io/SPOC/)
+        * *"The SPOC library enables the detection and use of GPGPU devices with OCaml using Cuda and OpenCL."*
+        * *"There is also a camlp4 syntax extension to handle external Cuda or OpenCL kernels, as well as a DSL (called Sarek) to express GPGPU kernels from the OCaml code."*
     * random links:
         * [High-Performance GPGPU Programming with OCaml (hgpu.org)](http://hgpu.org/?p=10694) (2013)
         * [GPGPU Composition with OCaml](http://dl.acm.org/citation.cfm?id=2627379) (2014)
