@@ -98,6 +98,20 @@
 * On F#:
 
     * [Use F# for GPU Programming (fsharp.org)](http://fsharp.org/use/gpu/)
+        * [Alea GPU](http://www.aleagpu.com/release/3_0_3/doc/), GPU parallel-for and parallel aggregate, Automatic memory management to move data to and from the GPU, GPU scripting for rapid prototyping in the interactive console, "GPU JIT compilation" (they will just mean without restarting the program), on CUDA. Seems there's no compiler from F# though? Or is it: *"It is a full compiler based on F# and LLVM to generate highly optimized GPU code."*. 
+            * Docs say: *"Alea GPU natively supports all .NET languages, including C#, F# and VB. It compiles .NET code directly to GPU code without first generating intermediate C or C++."* (So, not a subset of the source language, how well does that work? *"There is no performance compromise, compiled code runs as fast as CUDA C/C++."*, is that a marketing lie?)
+            * Commercial, with a reduced-functionality Community Edition
+        * [Brahma.FSharp](http://yaccconstructor.github.io/Brahma.FSharp/), *"Basic aim is to translate native F# code to OpenCL with minimization of different wrappers and custom types"*, via OpenCL
+            * *"library for F# quotations to OpenCL translation"*
+            * Eclipse Public License
+            * latest commit 2017
+        * [FSCL](https://github.com/FSCL/FSCL.Compiler), *"a source-to-source compiler that translates quoted F# function calls and other contructs into valid C99 OpenCL kernel sources"*
+            * [project wiki](https://github.com/FSCL/FSCL.Compiler/wiki): *"the FSCL Compiler generates OpenCL C99 kernel source code out of F# collection functions and F# special functions/methods/lambdas"*
+            * Apache License 2.0
+            * latest commit 2016
+        * [GpuLINQ](https://github.com/nessos/GpuLinq/), *"an open source F#/C# LINQ-to-OpenCL compiler"*
+            * Apache License 2.0
+            * latest commit 2015
     
 * On Clojure:
 
