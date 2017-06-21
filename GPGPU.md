@@ -35,6 +35,7 @@
     * [PyCUDA](https://mathema.tician.de/software/pycuda/) *"lets you access Nvidia‘s CUDA parallel computation API from Python. Several wrappers of the CUDA API already exist–so what's so special about PyCUDA?"* (Just API, have to write in CUDA, right?)
     * [An introduction to CUDA using Python (PDF)](http://www.tsc.uc3m.es/~miguel/MLG/adjuntos/slidesCUDA.pdf) (haven't looked at it)
     * [Py-Videocore: Python Library for GPGPU on Raspberry Pi (HN)](https://news.ycombinator.com/item?id=10797603) (*"Although VC4 is capable enough to run simple GLSL shaders, it is not possible to compile a generic C (or OpenCL) code efficiently."*)
+    * [PyTorch](http://pytorch.org/): *"Tensors and Dynamic neural networks in Python with strong GPU acceleration."*, *"PyTorch is a deep learning framework that puts Python first."*
 
 * On Lua:
 
