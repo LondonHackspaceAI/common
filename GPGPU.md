@@ -102,6 +102,7 @@
 * On Clojure:
 
     * [ClojureCL (uncomplicate.org)](http://clojurecl.uncomplicate.org/) *"supports GPUs, CPUs, and other accelerators. Sane interface and functions that fit into functional style while still respecting the reality of number crunching with OpenCL."*
+        * but is actually only an OpenCL wrapper (see [Clojure is Not Afraid of the GPU - Dragan Djuric (2016) (youtube)](https://www.youtube.com/watch?v=bEOOYbscyTs))
     * [ClojureCUDA (uncomplicate.org)](http://clojurecuda.uncomplicate.org/) (same design and text templates as ClojureCL, same domain, same author)
     * [Neanderthal (uncomplicate.org)](http://neanderthal.uncomplicate.org/) (dito)
         * [CUDA and cuBLAS GPU matrices in Clojure](http://dragan.rocks/articles/17/CUDA-and-cuBLAS-GPU-matrices-in-Clojure) ([HN](https://news.ycombinator.com/item?id=14386291)): *"I've added a new engine to Neanderthal that gives us the full speed of Nvidia's CUDA based cuBLAS library."*; *"\[...\] One major thing was still left untapped though: Nvidia's proprietary CUDA-based libraries that require Nvidia's proprietary and closed source CUDA technology that is also tied to the Nvidia hardware."* *"\[With OpenCL-based Neanderthal engine got\] 60% utilization, which is quite impressive for a one-man team working part-time! \[...\] with the CUDA-based engine \[...\] almost at the specification maximum of the hardware."*; *"I expect to integrate at least cuSPARSE and cuSOLVER into Neanderthal, and I'm eyeing cuDNN as an engine for a possible deep learning library."*
