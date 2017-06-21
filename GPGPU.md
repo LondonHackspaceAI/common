@@ -36,6 +36,20 @@
     * [An introduction to CUDA using Python (PDF)](http://www.tsc.uc3m.es/~miguel/MLG/adjuntos/slidesCUDA.pdf) (haven't looked at it)
     * [Py-Videocore: Python Library for GPGPU on Raspberry Pi (HN)](https://news.ycombinator.com/item?id=10797603) (*"Although VC4 is capable enough to run simple GLSL shaders, it is not possible to compile a generic C (or OpenCL) code efficiently."*)
 
+* On Lua:
+
+    * [Torch](http://torch.ch/): *"Torch is a scientific computing framework with wide support for machine learning algorithms that puts GPUs first. It is easy to use and efficient, thanks to an easy and fast scripting language, LuaJIT, and an underlying C/CUDA implementation."*
+        * ([nn/GPU.lua](https://github.com/torch/nn/blob/master/GPU.lua), part of [Neural Network Package](https://github.com/torch/nn) *"This package provides an easy and modular way to build and train simple or complex neural networks using Torch"*)
+        * looks like not much in the way of writing own code to run on the GPU?
+    * ([terracuda](http://willcrichton.github.io/terracuda/) *"We created a high-level Lua/Terra API which uses CUDA to execute Terra functions on the GPU. Our API can translate arbitrary Terra code to CUDA code and handles all device memory management and similar issues behind the scenes."*)
+        * *"Terra has a few key features we used: it JIT-compiles to LLVM, it interoperates with Lua, and its types are treated as values in Lua. This combined with the recent release of NVIDIA's NVPTX LLVM backend means that we can easily translate between Terra code and CUDA code."*
+        * [HN](https://news.ycombinator.com/item?id=11392486): noting that the speedups presented fall way short of *optimized* hand-written CUDA code (of course; IMHO (Christian) the use case is quickly developing math without being side-tracked by the GPU details, including keeping it evolvable, while having the computations slow you down less than it would on the CPU. Once things are set in stone, it's probable never avoidable to re-code in OpenCL/CUDA manually if more speed is needed.)
+            * *"Terracuda doesn't do anything particularly intelligent with movement between host/device memories--it's mostly there just to hide that away from you."*
+        * no changes since 2014 on [Github](https://github.com/willcrichton/terracuda) (odd, why HN discussion in 2016?).
+    * [Arrayfire Lua Bindings](https://github.com/arrayfire/arrayfire-lua)
+    * old articles?
+        * [Unchaining the GPU with Lua and OpenCL](https://williamaadams.wordpress.com/2012/04/23/unchaining-the-gpu-with-lua-and-opencl/)
+
 * On Julia:
 
     * [JuliaGPU](https://github.com/JuliaGPU) Github organization:
