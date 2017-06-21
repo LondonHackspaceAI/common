@@ -24,10 +24,12 @@
 * On Python:
 
     * [GPGPU.org: Python](http://gpgpu.org/tag/python)
-    * [GPGPU programming in Python (Stackoverflow)](https://stackoverflow.com/questions/3455608/gpgpu-programming-in-python), careful: 2011!
+    * ([GPGPU programming in Python (Stackoverflow)](https://stackoverflow.com/questions/3455608/gpgpu-programming-in-python), careful: 2011!)
         * CLyther attempts to abstract everything out. You write the host-side code in Python. You write the device-side code in a subset of Python (in a similar way to Cython). This is very high level and easy-to-use. 
         * PyOpenCL is a comparatively low-level binding to the OpenCL API from Python. Device-side code is written in OpenCL's subset of C99. It gives you full access to and full control of OpenCL. Very little is abstracted away. 
-    * [PyGPU - Python for the GPU](http://fileadmin.cs.lth.se/cs/Personal/Calle_Lejdfors/pygpu/) *"is a compiler that lets you write image processing programs in Python that execute on the graphics processing unit (GPU) present in modern graphics cards."* But: OpenGL only, not GPGPU?
+    * [CLyther](https://srossross.github.io/Clyther/) *"is a just-in-time specialization engine for OpenCL. The main entry points for CLyther are its clyther.task and clyther.kernel decorators. Once a function is decorated with one of these the function will be compiled to OpenCL when called."*
+        * *"Warning This is a brand new version of CLyther. I have not released this yet. If you do decide to use it then please think about Contributing."*, although the code seems to be on [Github](https://github.com/srossross/Clyther/).
+    * ([PyGPU - Python for the GPU](http://fileadmin.cs.lth.se/cs/Personal/Calle_Lejdfors/pygpu/) *"is a compiler that lets you write image processing programs in Python that execute on the graphics processing unit (GPU) present in modern graphics cards."* But: OpenGL only, not GPGPU?)
     * [GPU Accelerated Computing with Python (nvidia.com)](https://developer.nvidia.com/how-to-cuda-python): *"Using the NumbaPro Python compiler, which is part of the Anaconda Accelerate package from Continuum Analytics, you get the best of both worlds: rapid iterative development and all other benefits of Python combined with the speed of a compiled language targeting both CPUs and NVIDIA GPUs."*
         * [NumbaPro / Quick Start](https://docs.continuum.io/numbapro/quickstart)
     * [PyCUDA](https://mathema.tician.de/software/pycuda/) *"lets you access Nvidia‘s CUDA parallel computation API from Python. Several wrappers of the CUDA API already exist–so what's so special about PyCUDA?"* (Just API, have to write in CUDA, right?)
