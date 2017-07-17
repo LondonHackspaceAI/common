@@ -32,6 +32,8 @@
     * ([PyGPU - Python for the GPU](http://fileadmin.cs.lth.se/cs/Personal/Calle_Lejdfors/pygpu/) *"is a compiler that lets you write image processing programs in Python that execute on the graphics processing unit (GPU) present in modern graphics cards."* But: OpenGL only, not GPGPU?)
     * [GPU Accelerated Computing with Python (nvidia.com)](https://developer.nvidia.com/how-to-cuda-python): *"Using the NumbaPro Python compiler, which is part of the Anaconda Accelerate package from Continuum Analytics, you get the best of both worlds: rapid iterative development and all other benefits of Python combined with the speed of a compiled language targeting both CPUs and NVIDIA GPUs."*
         * [NumbaPro / Quick Start](https://docs.continuum.io/numbapro/quickstart)
+            * [Writing CUDA Kernels](http://numba.pydata.org/numba-doc/latest/cuda/kernels.html)
+            * [GPU Reduction](http://numba.pydata.org/numba-doc/latest/cuda/reduction.html#reduce)
     * [PyCUDA](https://mathema.tician.de/software/pycuda/) *"lets you access Nvidia‘s CUDA parallel computation API from Python. Several wrappers of the CUDA API already exist–so what's so special about PyCUDA?"* (Just API, have to write in CUDA, right?)
     * [An introduction to CUDA using Python (PDF)](http://www.tsc.uc3m.es/~miguel/MLG/adjuntos/slidesCUDA.pdf) (haven't looked at it)
     * [Py-Videocore: Python Library for GPGPU on Raspberry Pi (HN)](https://news.ycombinator.com/item?id=10797603) (*"Although VC4 is capable enough to run simple GLSL shaders, it is not possible to compile a generic C (or OpenCL) code efficiently."*)
