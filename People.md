@@ -40,6 +40,8 @@
   16,000 CPU cores, that learned to recognize higher-level concepts,
   such as cats, after watching only YouTube videos, and without ever
   having been told what a "cat" is.
+  
+    * [Andrew Ng is raising a $150M AI Fund (HN)](https://news.ycombinator.com/item?id=15028322) (incl. how to pronounce his name)
 
 * [Peter Norvig](https://en.wikipedia.org/wiki/Peter_Norvig) ([home page](http://www.norvig.com/))
 
