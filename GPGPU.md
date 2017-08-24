@@ -58,6 +58,7 @@
     * [JuliaGPU](https://github.com/JuliaGPU) Github organization:
         * [CUDAnative.jl](https://github.com/JuliaGPU/CUDAnative.jl)
             * There was a talk [here](https://skillsmatter.com/meetups/8776-london-julia-users-group) and was recorded, should ask Skillsmatter where the video is.
+            * [Generic GPU Kernels in Julia](http://mikeinnes.github.io/2017/08/24/cudanative.html) ([HN](https://news.ycombinator.com/item?id=15092464))
         * OpenCL.jl (OpenCL Julia bindings)
         * CUDArt.jl (Julia wrapper for CUDA runtime API)
         * CUDAdrv.jl (A Julia wrapper for the CUDA driver API)
