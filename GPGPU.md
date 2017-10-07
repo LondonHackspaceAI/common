@@ -21,6 +21,21 @@
 
 * [Compiling CUDA with clang](http://llvm.org/docs/CompileCudaWithLLVM.html) (some discussion on [HN](https://news.ycombinator.com/item?id=14309756))
 
+* [Introducing NNVM Compiler: A New Open End-to-End Compiler for AI Frameworks (aws.amazon.com)](https://aws.amazon.com/blogs/ai/introducing-nnvm-compiler-a-new-open-end-to-end-compiler-for-ai-frameworks/) ([HN](https://news.ycombinator.com/item?id=15418109))
+
+    * Three challenges
+        * it is nontrivial to switch from one AI framework to another because of differences among the frontend interfaces and the backend implementations
+            * e.g. customers who want to deploy their Caffe model on MXNet to enjoy the accelerated performance on Amazon EC2
+            * difficulty of debugging differences in results after converting models from one framework to another
+        * framework developers need to maintain multiple backends to guarantee performance on hardware ranging from smartphone chips to data center GPUs. Guaranteeing that these different backends deliver consistent numerical results to users is challenging.
+        * chip vendors need to support multiple AI frameworks for every new chip they build
+    * Diverse AI frameworks and hardware bring huge benefits to users, but it is very challenging to AI developers to deliver consistent results to end users. Luckily, we are not the first to face this kind of problems. Computer science has a long history of running various programming languages on different hardware.
+    * introduced the TVM stack to simplify this problem
+    * "end-to-end compiler" (?) compiles workloads directly from various deep learning frontends into optimized machine codes (eh?)
+    * "This compiler is based on two components in the TVM stack: NNVM provides a specification of the computation graph and operator with graph optimization routines, and operators are implemented and optimized for target hardware by using TVM."
+    * We demonstrated that with minimal effort this compiler can match and even outperform state-of-the-art performance on two radically different hardware: ARM CPU and Nvidia GPUs.
+    
+
 * On Python:
 
     * [GPGPU.org: Python](http://gpgpu.org/tag/python)
