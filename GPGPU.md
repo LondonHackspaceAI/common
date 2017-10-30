@@ -35,6 +35,9 @@
     * "This compiler is based on two components in the TVM stack: NNVM provides a specification of the computation graph and operator with graph optimization routines, and operators are implemented and optimized for target hardware by using TVM."
     * We demonstrated that with minimal effort this compiler can match and even outperform state-of-the-art performance on two radically different hardware: ARM CPU and Nvidia GPUs.
     
+* [TVM: End to End IR stack for AI Frameworks (tvmlang.org)](http://tvmlang.org/)
+    * *"TVM stack is a unified intermediate representation (IR) stack that will close the gap between the productivity-focused deep learning frameworks, and the performance- or efficiency-oriented hardware backends."*
+
 
 * On Python:
 
@@ -186,3 +189,8 @@
 
 * [Volta: Advanced Data Center GPU](https://devblogs.nvidia.com/parallelforall/inside-volta/) ([HN](https://news.ycombinator.com/item?id=14309756))
 
+* [Bringing AMD GPUs to TVM Stack and NNVM Compiler with ROCm (tvmlang.org)](http://www.tvmlang.org/2017/10/30/Bringing-AMDGPUs-to-TVM-Stack-and-NNVM-Compiler-with-ROCm.html) 
+
+    * [HN](https://news.ycombinator.com/item?id=15585751):
+        * *"so that's almost 24 TFLOPS of training compute for ~ $400 USD"* (for FP16 operations)
+        * vs. *"with the "Tensor Cores" of NVidia's next-generation Volta coming in, I'd bet that NVidia cards will be faster in machine learning tasks." - "Nvidia is quoting 125 TFLOPs mixed precision on V100, boosted by Tensor Cores."*
