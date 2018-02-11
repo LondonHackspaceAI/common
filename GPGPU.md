@@ -171,6 +171,7 @@
 * On Fortran:
 
     * [CUDA FORTRAN](https://developer.nvidia.com/cuda-fortran): *"NVIDIA worked with The Portland Group (PGI) to develop a CUDA Fortran Compiler that provides Fortran language support for NVIDIA’s CUDA-enabled GPUs. Fortran developers with data parallel problems will be able to use this compiler to harness the massive parallel computing capability of NVIDIA GPUs to create high performance applications for scientific computing."*
+        * [Flang – A Fortran compiler targeting LLVM (github.com)](https://github.com/flang-compiler/flang) ([HN](https://news.ycombinator.com/item?id=14367662))
     * [GPGPU: Fortran (gpgpu.org)](http://gpgpu.org/tag/fortran)
         * [Performance Portable Parallel Programming – Target CUDA and OpenMP in a Unified Codebase](http://gpgpu.org/2014/08/14/performance-portable-parallel-programming-target-cuda-and-openmp-in-a-unified-codebase)
             * [Hybrid-Fortran (Github)](https://github.com/muellermichel/Hybrid-Fortran)
