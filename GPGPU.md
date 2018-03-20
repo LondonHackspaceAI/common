@@ -38,6 +38,8 @@
 * [TVM: End to End IR stack for AI Frameworks (tvmlang.org)](http://tvmlang.org/)
     * *"TVM stack is a unified intermediate representation (IR) stack that will close the gap between the productivity-focused deep learning frameworks, and the performance- or efficiency-oriented hardware backends."*
 
+* [NGraph: A New Open Source Compiler for Deep Learning Systems (intel.com)](https://ai.intel.com/ngraph-a-new-open-source-compiler-for-deep-learning-systems/) ([HN](https://news.ycombinator.com/item?id=16630506))
+
 
 * On Python:
 
